@@ -159,13 +159,10 @@ export function JapaneseQuizRunner({ quiz }: JapaneseQuizRunnerProps) {
     const percentage = Math.round((score / total) * 100)
     const text = `Aku baru selesai ${quiz.title} di Mondo! Skor: ${score}/${total} (${percentage}%). Yuk, konsisten bareng belajar bahasa Jepang!`
 
-    if (navigator.share) {
-      await navigator.share({
-        title: "Hasil Kuis Mondo",
-        text
-      })
-      return
-    }
+    if ("share" in navigator) {
+  await navigator.share({ title: "Hasil Kuis Mondo", text })
+  return
+}
 
     await navigator.clipboard.writeText(text)
     setShareCopied(true)
@@ -259,7 +256,7 @@ export function JapaneseQuizRunner({ quiz }: JapaneseQuizRunnerProps) {
               </Button>
 
               <Button variant="secondary" className="gap-2 rounded-xl" onClick={shareResult}>
-                {navigator.share ? (
+                {"share" in navigator ? (
                   <Share2 className="h-4 w-4" />
                 ) : (
                   <Copy className="h-4 w-4" />

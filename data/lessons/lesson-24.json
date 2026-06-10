@@ -1,0 +1,926 @@
+{
+  "id": 24,
+  "slug": "pelajaran-24",
+  "title": "Pelajaran 24",
+  "subtitle": "Memberi Bantuan",
+  "theme": "Pola memberi/menerima bantuan tindakan",
+  "level": "beginner",
+  "estimatedMinutes": 45,
+  "canDo": [
+    "Memahami tata bahasa utama Bab 24",
+    "Menggunakan pola: くれます",
+    "Membaca dan memahami topik info: Tukar-menukar hadiah",
+    "Membuat contoh kalimat sendiri",
+    "Melatih materi dengan flashcard dan Harmoko Sensei"
+  ],
+  "vocabulary": [
+    {
+      "id": "l24-v1",
+      "lessonId": 24,
+      "kana": "くれます",
+      "kanji": "",
+      "romaji": "kuremasu",
+      "indonesian": "diberikan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "くれます",
+      "examples": [
+        {
+          "id": "l24-v1-e1",
+          "japanese": "くれます。",
+          "romaji": "kuremasu.",
+          "indonesian": "diberikan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v2",
+      "lessonId": 24,
+      "kana": "なおします",
+      "kanji": "",
+      "romaji": "naoshimasu",
+      "indonesian": "mengoreksi, memperbaiki",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "なおします",
+      "examples": [
+        {
+          "id": "l24-v2-e1",
+          "japanese": "なおします。",
+          "romaji": "naoshimasu.",
+          "indonesian": "mengoreksi, memperbaiki"
+        }
+      ]
+    },
+    {
+      "id": "l24-v3",
+      "lessonId": 24,
+      "kana": "つれていきます",
+      "kanji": "",
+      "romaji": "tsureteikimasu",
+      "indonesian": "mengajak pergi, membawa, mengantarkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "つれていきます",
+      "examples": [
+        {
+          "id": "l24-v3-e1",
+          "japanese": "つれていきます。",
+          "romaji": "tsureteikimasu.",
+          "indonesian": "mengajak pergi, membawa, mengantarkan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v4",
+      "lessonId": 24,
+      "kana": "つれてきます",
+      "kanji": "",
+      "romaji": "tsuretekimasu",
+      "indonesian": "membawa datang, membawa datang",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "つれてきます",
+      "examples": [
+        {
+          "id": "l24-v4-e1",
+          "japanese": "つれてきます。",
+          "romaji": "tsuretekimasu.",
+          "indonesian": "membawa datang, membawa datang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v5",
+      "lessonId": 24,
+      "kana": "おくります",
+      "kanji": "",
+      "romaji": "okurimasu",
+      "indonesian": "mengantar (orang)",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おくります",
+      "examples": [
+        {
+          "id": "l24-v5-e1",
+          "japanese": "おくります。",
+          "romaji": "okurimasu.",
+          "indonesian": "mengantar (orang)"
+        }
+      ]
+    },
+    {
+      "id": "l24-v6",
+      "lessonId": 24,
+      "kana": "しょうかいします",
+      "kanji": "",
+      "romaji": "shoukaishimasu",
+      "indonesian": "memperkenalkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "しょうかいします",
+      "examples": [
+        {
+          "id": "l24-v6-e1",
+          "japanese": "しょうかいします。",
+          "romaji": "shoukaishimasu.",
+          "indonesian": "memperkenalkan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v7",
+      "lessonId": 24,
+      "kana": "あんないします",
+      "kanji": "",
+      "romaji": "annaishimasu",
+      "indonesian": "memandu, mengantarkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "あんないします",
+      "examples": [
+        {
+          "id": "l24-v7-e1",
+          "japanese": "あんないします。",
+          "romaji": "annaishimasu.",
+          "indonesian": "memandu, mengantarkan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v8",
+      "lessonId": 24,
+      "kana": "せつめいします",
+      "kanji": "",
+      "romaji": "setsumeishimasu",
+      "indonesian": "menjelaskan, menerangkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "せつめいします",
+      "examples": [
+        {
+          "id": "l24-v8-e1",
+          "japanese": "せつめいします。",
+          "romaji": "setsumeishimasu.",
+          "indonesian": "menjelaskan, menerangkan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v9",
+      "lessonId": 24,
+      "kana": "おじいさん/おじいちゃん",
+      "kanji": "",
+      "romaji": "ojiisan/ojiichan",
+      "indonesian": "kakek",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おじいさん/おじいちゃん",
+      "examples": [
+        {
+          "id": "l24-v9-e1",
+          "japanese": "おじいさん/おじいちゃん。",
+          "romaji": "ojiisan/ojiichan.",
+          "indonesian": "kakek"
+        }
+      ]
+    },
+    {
+      "id": "l24-v10",
+      "lessonId": 24,
+      "kana": "おばあさん/おばあちゃん",
+      "kanji": "",
+      "romaji": "obaasan/obaachan",
+      "indonesian": "nenek",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おばあさん/おばあちゃん",
+      "examples": [
+        {
+          "id": "l24-v10-e1",
+          "japanese": "おばあさん/おばあちゃん。",
+          "romaji": "obaasan/obaachan.",
+          "indonesian": "nenek"
+        }
+      ]
+    },
+    {
+      "id": "l24-v11",
+      "lessonId": 24,
+      "kana": "じゅんび",
+      "kanji": "",
+      "romaji": "jumbi",
+      "indonesian": "persiapan",
+      "partOfSpeech": "question-word",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "じゅんび",
+      "examples": [
+        {
+          "id": "l24-v11-e1",
+          "japanese": "じゅんび。",
+          "romaji": "jumbi.",
+          "indonesian": "persiapan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v12",
+      "lessonId": 24,
+      "kana": "ひっこし",
+      "kanji": "",
+      "romaji": "hikkoshi",
+      "indonesian": "pindah rumah",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ひっこし",
+      "examples": [
+        {
+          "id": "l24-v12-e1",
+          "japanese": "ひっこし。",
+          "romaji": "hikkoshi.",
+          "indonesian": "pindah rumah"
+        }
+      ]
+    },
+    {
+      "id": "l24-v13",
+      "lessonId": 24,
+      "kana": "おかし",
+      "kanji": "",
+      "romaji": "okashi",
+      "indonesian": "kue, snack, makanan ringan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おかし",
+      "examples": [
+        {
+          "id": "l24-v13-e1",
+          "japanese": "おかし。",
+          "romaji": "okashi.",
+          "indonesian": "kue, snack, makanan ringan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v14",
+      "lessonId": 24,
+      "kana": "ホームステイ",
+      "kanji": "",
+      "romaji": "hoomusutei",
+      "indonesian": "homestay",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ホームステイ",
+      "examples": [
+        {
+          "id": "l24-v14-e1",
+          "japanese": "ホームステイ。",
+          "romaji": "hoomusutei.",
+          "indonesian": "homestay"
+        }
+      ]
+    },
+    {
+      "id": "l24-v15",
+      "lessonId": 24,
+      "kana": "ぜんぶ",
+      "kanji": "",
+      "romaji": "zembu",
+      "indonesian": "semua",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ぜんぶ",
+      "examples": [
+        {
+          "id": "l24-v15-e1",
+          "japanese": "ぜんぶ。",
+          "romaji": "zembu.",
+          "indonesian": "semua"
+        }
+      ]
+    },
+    {
+      "id": "l24-v16",
+      "lessonId": 24,
+      "kana": "じぶんで",
+      "kanji": "",
+      "romaji": "jibunde",
+      "indonesian": "dengan sendiri",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "じぶんで",
+      "examples": [
+        {
+          "id": "l24-v16-e1",
+          "japanese": "じぶんで。",
+          "romaji": "jibunde.",
+          "indonesian": "dengan sendiri"
+        }
+      ]
+    },
+    {
+      "id": "l24-v17",
+      "lessonId": 24,
+      "kana": "ほかに",
+      "kanji": "",
+      "romaji": "hokani",
+      "indonesian": "selain, yang lain",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ほかに",
+      "examples": [
+        {
+          "id": "l24-v17-e1",
+          "japanese": "ほかに。",
+          "romaji": "hokani.",
+          "indonesian": "selain, yang lain"
+        }
+      ]
+    },
+    {
+      "id": "l24-v18",
+      "lessonId": 24,
+      "kana": "ははのひ",
+      "kanji": "",
+      "romaji": "hahanohi",
+      "indonesian": "hari ibu",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ははのひ",
+      "examples": [
+        {
+          "id": "l24-v18-e1",
+          "japanese": "ははのひ。",
+          "romaji": "hahanohi.",
+          "indonesian": "hari ibu"
+        }
+      ]
+    },
+    {
+      "id": "l24-v19",
+      "lessonId": 24,
+      "kana": "ぞうとうのしゅうかん",
+      "kanji": "",
+      "romaji": "zoutounoshuukan",
+      "indonesian": "tukar menukar hadiah",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "ぞうとうのしゅうかん",
+      "examples": [
+        {
+          "id": "l24-v19-e1",
+          "japanese": "ぞうとうのしゅうかん。",
+          "romaji": "zoutounoshuukan.",
+          "indonesian": "tukar menukar hadiah"
+        }
+      ]
+    },
+    {
+      "id": "l24-v20",
+      "lessonId": 24,
+      "kana": "おとしだま",
+      "kanji": "",
+      "romaji": "otoshidama",
+      "indonesian": "hadiah kecil yang diberikan orang tua dan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おとしだま",
+      "examples": [
+        {
+          "id": "l24-v20-e1",
+          "japanese": "おとしだま。",
+          "romaji": "otoshidama.",
+          "indonesian": "hadiah kecil yang diberikan orang tua dan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v21",
+      "lessonId": 24,
+      "kana": "にゅうがくいわい",
+      "kanji": "",
+      "romaji": "nyuugakuiwai",
+      "indonesian": "hadiah yang diberikan kepada anak yang",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "にゅうがくいわい",
+      "examples": [
+        {
+          "id": "l24-v21-e1",
+          "japanese": "にゅうがくいわい。",
+          "romaji": "nyuugakuiwai.",
+          "indonesian": "hadiah yang diberikan kepada anak yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v22",
+      "lessonId": 24,
+      "kana": "そつぎょういわい",
+      "kanji": "",
+      "romaji": "sotsugyouiwai",
+      "indonesian": "hadiah yang diberikan kepada anak yang",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "そつぎょういわい",
+      "examples": [
+        {
+          "id": "l24-v22-e1",
+          "japanese": "そつぎょういわい。",
+          "romaji": "sotsugyouiwai.",
+          "indonesian": "hadiah yang diberikan kepada anak yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v23",
+      "lessonId": 24,
+      "kana": "けっこんいわい",
+      "kanji": "",
+      "romaji": "kekkoniwai",
+      "indonesian": "hadiah perkawinan",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "けっこんいわい",
+      "examples": [
+        {
+          "id": "l24-v23-e1",
+          "japanese": "けっこんいわい。",
+          "romaji": "kekkoniwai.",
+          "indonesian": "hadiah perkawinan"
+        }
+      ]
+    },
+    {
+      "id": "l24-v24",
+      "lessonId": 24,
+      "kana": "しゅっさんいわい",
+      "kanji": "",
+      "romaji": "shussaniwai",
+      "indonesian": "hadiah yang diberikan kepada orang yang",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "しゅっさんいわい",
+      "examples": [
+        {
+          "id": "l24-v24-e1",
+          "japanese": "しゅっさんいわい。",
+          "romaji": "shussaniwai.",
+          "indonesian": "hadiah yang diberikan kepada orang yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v25",
+      "lessonId": 24,
+      "kana": "おちゅうげん/おせいぼ",
+      "kanji": "",
+      "romaji": "ochuugen/oseibo",
+      "indonesian": "hadiah yang diberikan kepada orang yang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おちゅうげん/おせいぼ",
+      "examples": [
+        {
+          "id": "l24-v25-e1",
+          "japanese": "おちゅうげん/おせいぼ。",
+          "romaji": "ochuugen/oseibo.",
+          "indonesian": "hadiah yang diberikan kepada orang yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v26",
+      "lessonId": 24,
+      "kana": "おこうでん",
+      "kanji": "",
+      "romaji": "okouden",
+      "indonesian": "uang yang diberikan kepada keluarga yang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おこうでん",
+      "examples": [
+        {
+          "id": "l24-v26-e1",
+          "japanese": "おこうでん。",
+          "romaji": "okouden.",
+          "indonesian": "uang yang diberikan kepada keluarga yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v27",
+      "lessonId": 24,
+      "kana": "おみまい",
+      "kanji": "",
+      "romaji": "omimai",
+      "indonesian": "hadiah yang diberikan kepada orang yang",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "おみまい",
+      "examples": [
+        {
+          "id": "l24-v27-e1",
+          "japanese": "おみまい。",
+          "romaji": "omimai.",
+          "indonesian": "hadiah yang diberikan kepada orang yang"
+        }
+      ]
+    },
+    {
+      "id": "l24-v28",
+      "lessonId": 24,
+      "kana": "のしぶくろ",
+      "kanji": "",
+      "romaji": "noshibukuro",
+      "indonesian": "amplop khusus untuk hadiah uang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-24"
+      ],
+      "audioText": "のしぶくろ",
+      "examples": [
+        {
+          "id": "l24-v28-e1",
+          "japanese": "のしぶくろ。",
+          "romaji": "noshibukuro.",
+          "indonesian": "amplop khusus untuk hadiah uang"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l24-g1",
+      "lessonId": 24,
+      "title": "くれます",
+      "pattern": "くれます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 24 ini berfokus pada pola “くれます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l24-g1-s1",
+          "label": "Struktur dasar",
+          "pattern": "くれます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l24-g1-e1",
+          "japanese": "ともだちが てつだってくれました。",
+          "romaji": "Tomodachi ga tetsudatte kuremashita.",
+          "indonesian": "Teman membantu saya."
+        },
+        {
+          "id": "l24-g1-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l24-m-63011",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: くれます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola くれます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l24-g2",
+      "lessonId": 24,
+      "title": "Vて あげます",
+      "pattern": "Vて あげます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 24 ini berfokus pada pola “Vて あげます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l24-g2-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vて あげます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l24-g2-e1",
+          "japanese": "ともだちに はなを あげます。",
+          "romaji": "Tomodachi ni hana o agemasu.",
+          "indonesian": "Saya memberi bunga kepada teman."
+        },
+        {
+          "id": "l24-g2-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l24-m-29783",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vて あげます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vて あげます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l24-g3",
+      "lessonId": 24,
+      "title": "Vて もらいます",
+      "pattern": "Vて もらいます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 24 ini berfokus pada pola “Vて もらいます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l24-g3-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vて もらいます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l24-g3-e1",
+          "japanese": "ともだちに ほんを もらいました。",
+          "romaji": "Tomodachi ni hon o moraimashita.",
+          "indonesian": "Saya menerima buku dari teman."
+        },
+        {
+          "id": "l24-g3-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l24-m-78170",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vて もらいます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vて もらいます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l24-g4",
+      "lessonId": 24,
+      "title": "Vて くれます",
+      "pattern": "Vて くれます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 24 ini berfokus pada pola “Vて くれます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l24-g4-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vて くれます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l24-g4-e1",
+          "japanese": "ともだちが てつだってくれました。",
+          "romaji": "Tomodachi ga tetsudatte kuremashita.",
+          "indonesian": "Teman membantu saya."
+        },
+        {
+          "id": "l24-g4-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l24-m-16689",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vて くれます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vて くれます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l24-g5",
+      "lessonId": 24,
+      "title": "Nは Nが Vてくれます",
+      "pattern": "Nは Nが Vてくれます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 24 ini berfokus pada pola “Nは Nが Vてくれます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l24-g5-s1",
+          "label": "Struktur dasar",
+          "pattern": "Nは Nが Vてくれます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l24-g5-e1",
+          "japanese": "ともだちが てつだってくれました。",
+          "romaji": "Tomodachi ga tetsudatte kuremashita.",
+          "indonesian": "Teman membantu saya."
+        },
+        {
+          "id": "l24-g5-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l24-m-21471",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Nは Nが Vてくれます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Nは Nが Vてくれます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "l24-c1",
+      "lessonId": 24,
+      "title": "Terima kasih telah membantu Anda",
+      "context": "Percakapan pendek untuk melatih materi Bab 24.",
+      "lines": [
+        {
+          "id": "l24-c1-l1",
+          "speaker": "Rido",
+          "japanese": "すみません。ちょっと いいですか。",
+          "romaji": "Sumimasen. Chotto ii desu ka.",
+          "indonesian": "Permisi. Boleh sebentar?"
+        },
+        {
+          "id": "l24-c1-l2",
+          "speaker": "Sato",
+          "japanese": "はい、いいですよ。",
+          "romaji": "Hai, ii desu yo.",
+          "indonesian": "Ya, boleh."
+        },
+        {
+          "id": "l24-c1-l3",
+          "speaker": "Rido",
+          "japanese": "ともだちが てつだってくれました。",
+          "romaji": "Tomodachi ga tetsudatte kuremashita.",
+          "indonesian": "Teman membantu saya."
+        },
+        {
+          "id": "l24-c1-l4",
+          "speaker": "Sato",
+          "japanese": "いいですね。もういちど れんしゅうしましょう。",
+          "romaji": "Ii desu ne. Mou ichido renshuu shimashou.",
+          "indonesian": "Bagus. Mari latihan sekali lagi."
+        }
+      ],
+      "roleplayPrompts": [
+        "Latihan percakapan dengan tema: Terima kasih telah membantu Anda.",
+        "User menjawab dalam bahasa Jepang sederhana.",
+        "Harmoko Sensei memberi koreksi singkat."
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "id": "l24-cn1",
+      "lessonId": 24,
+      "title": "Tukar-menukar hadiah",
+      "body": "Topik referensi Bab 24: Tukar-menukar hadiah. Bagian ini membantu memahami konteks pemakaian bahasa Jepang dalam kehidupan sehari-hari, budaya, tempat, kebiasaan, atau ungkapan yang sering muncul.",
+      "tips": [
+        "Baca kosakata yang berhubungan dengan topik ini.",
+        "Coba buat 3 kalimat pendek memakai kosakata bab ini.",
+        "Gunakan flashcard untuk mengulang kata yang sulit.",
+        "Minta Harmoko Sensei membuat roleplay sesuai topik ini."
+      ]
+    },
+    {
+      "id": "l24-cn2",
+      "lessonId": 24,
+      "title": "Cara belajar efektif",
+      "body": "Pelajari pola kalimat, lihat contoh, lalu langsung praktik percakapan. Jangan hanya menghafal arti; gunakan kosakata dalam kalimat pendek.",
+      "tips": [
+        "Pahami pola sebelum menghafal banyak contoh.",
+        "Latihan suara dengan tombol speaker.",
+        "Tandai pelajaran selesai setelah membaca semua tab."
+      ]
+    }
+  ],
+  "aiSuggestedPrompts": [
+    "Jelaskan tata bahasa Bab 24 dengan sederhana.",
+    "Buat 10 soal dari grammar Bab 24.",
+    "Buat roleplay tentang Terima kasih telah membantu Anda.",
+    "Buat contoh kalimat dari kosakata Bab 24.",
+    "Koreksi kalimat Jepang saya."
+  ]
+}

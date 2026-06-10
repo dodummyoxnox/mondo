@@ -1,0 +1,1234 @@
+{
+  "id": 15,
+  "slug": "pelajaran-15",
+  "title": "Pelajaran 15",
+  "subtitle": "Izin dan Larangan",
+  "theme": "Meminta izin dan menyatakan larangan",
+  "level": "beginner",
+  "estimatedMinutes": 45,
+  "canDo": [
+    "Memahami tata bahasa utama Bab 15",
+    "Menggunakan pola: Vてもいいですか",
+    "Membaca dan memahami topik info: Pekerjaan",
+    "Membuat contoh kalimat sendiri",
+    "Melatih materi dengan flashcard dan Harmoko Sensei"
+  ],
+  "vocabulary": [
+    {
+      "id": "l15-v1",
+      "lessonId": 15,
+      "kana": "おきます",
+      "kanji": "",
+      "romaji": "okimasu",
+      "indonesian": "meletakkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "おきます",
+      "examples": [
+        {
+          "id": "l15-v1-e1",
+          "japanese": "おきます。",
+          "romaji": "okimasu.",
+          "indonesian": "meletakkan"
+        }
+      ]
+    },
+    {
+      "id": "l15-v2",
+      "lessonId": 15,
+      "kana": "つくります",
+      "kanji": "",
+      "romaji": "tsukurimasu",
+      "indonesian": "membuat",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "つくります",
+      "examples": [
+        {
+          "id": "l15-v2-e1",
+          "japanese": "つくります。",
+          "romaji": "tsukurimasu.",
+          "indonesian": "membuat"
+        }
+      ]
+    },
+    {
+      "id": "l15-v3",
+      "lessonId": 15,
+      "kana": "うります",
+      "kanji": "",
+      "romaji": "urimasu",
+      "indonesian": "menjual",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "うります",
+      "examples": [
+        {
+          "id": "l15-v3-e1",
+          "japanese": "うります。",
+          "romaji": "urimasu.",
+          "indonesian": "menjual"
+        }
+      ]
+    },
+    {
+      "id": "l15-v4",
+      "lessonId": 15,
+      "kana": "しります",
+      "kanji": "",
+      "romaji": "shirimasu",
+      "indonesian": "mengenal, mengetahui",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "しります",
+      "examples": [
+        {
+          "id": "l15-v4-e1",
+          "japanese": "しります。",
+          "romaji": "shirimasu.",
+          "indonesian": "mengenal, mengetahui"
+        }
+      ]
+    },
+    {
+      "id": "l15-v5",
+      "lessonId": 15,
+      "kana": "すみます",
+      "kanji": "",
+      "romaji": "sumimasu",
+      "indonesian": "tinggal",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "すみます",
+      "examples": [
+        {
+          "id": "l15-v5-e1",
+          "japanese": "すみます。",
+          "romaji": "sumimasu.",
+          "indonesian": "tinggal"
+        }
+      ]
+    },
+    {
+      "id": "l15-v6",
+      "lessonId": 15,
+      "kana": "けんきゅうします",
+      "kanji": "",
+      "romaji": "kenkyuushimasu",
+      "indonesian": "meneliti",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "けんきゅうします",
+      "examples": [
+        {
+          "id": "l15-v6-e1",
+          "japanese": "けんきゅうします。",
+          "romaji": "kenkyuushimasu.",
+          "indonesian": "meneliti"
+        }
+      ]
+    },
+    {
+      "id": "l15-v7",
+      "lessonId": 15,
+      "kana": "しりょう",
+      "kanji": "",
+      "romaji": "shiryou",
+      "indonesian": "data, bahan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "しりょう",
+      "examples": [
+        {
+          "id": "l15-v7-e1",
+          "japanese": "しりょう。",
+          "romaji": "shiryou.",
+          "indonesian": "data, bahan"
+        }
+      ]
+    },
+    {
+      "id": "l15-v8",
+      "lessonId": 15,
+      "kana": "カタログ",
+      "kanji": "",
+      "romaji": "katarogu",
+      "indonesian": "katalog",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "カタログ",
+      "examples": [
+        {
+          "id": "l15-v8-e1",
+          "japanese": "カタログ。",
+          "romaji": "katarogu.",
+          "indonesian": "katalog"
+        }
+      ]
+    },
+    {
+      "id": "l15-v9",
+      "lessonId": 15,
+      "kana": "ふく",
+      "kanji": "",
+      "romaji": "fuku",
+      "indonesian": "pakaian",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "ふく",
+      "examples": [
+        {
+          "id": "l15-v9-e1",
+          "japanese": "ふく。",
+          "romaji": "fuku.",
+          "indonesian": "pakaian"
+        }
+      ]
+    },
+    {
+      "id": "l15-v10",
+      "lessonId": 15,
+      "kana": "せいひん",
+      "kanji": "",
+      "romaji": "seihin",
+      "indonesian": "produk",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "せいひん",
+      "examples": [
+        {
+          "id": "l15-v10-e1",
+          "japanese": "せいひん。",
+          "romaji": "seihin.",
+          "indonesian": "produk"
+        }
+      ]
+    },
+    {
+      "id": "l15-v11",
+      "lessonId": 15,
+      "kana": "ソフト",
+      "kanji": "",
+      "romaji": "sofuto",
+      "indonesian": "perangkat lunak",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "ソフト",
+      "examples": [
+        {
+          "id": "l15-v11-e1",
+          "japanese": "ソフト。",
+          "romaji": "sofuto.",
+          "indonesian": "perangkat lunak"
+        }
+      ]
+    },
+    {
+      "id": "l15-v12",
+      "lessonId": 15,
+      "kana": "でんしじしょ",
+      "kanji": "",
+      "romaji": "denshijisho",
+      "indonesian": "kamus elektronik",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "でんしじしょ",
+      "examples": [
+        {
+          "id": "l15-v12-e1",
+          "japanese": "でんしじしょ。",
+          "romaji": "denshijisho.",
+          "indonesian": "kamus elektronik"
+        }
+      ]
+    },
+    {
+      "id": "l15-v13",
+      "lessonId": 15,
+      "kana": "けいざい",
+      "kanji": "",
+      "romaji": "keizai",
+      "indonesian": "ekonomi",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "けいざい",
+      "examples": [
+        {
+          "id": "l15-v13-e1",
+          "japanese": "けいざい。",
+          "romaji": "keizai.",
+          "indonesian": "ekonomi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v14",
+      "lessonId": 15,
+      "kana": "はいしゃ",
+      "kanji": "",
+      "romaji": "haisha",
+      "indonesian": "dokter gigi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "はいしゃ",
+      "examples": [
+        {
+          "id": "l15-v14-e1",
+          "japanese": "はいしゃ。",
+          "romaji": "haisha.",
+          "indonesian": "dokter gigi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v15",
+      "lessonId": 15,
+      "kana": "どくしん",
+      "kanji": "",
+      "romaji": "dokushin",
+      "indonesian": "bujangan, jomblo",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "どくしん",
+      "examples": [
+        {
+          "id": "l15-v15-e1",
+          "japanese": "どくしん。",
+          "romaji": "dokushin.",
+          "indonesian": "bujangan, jomblo"
+        }
+      ]
+    },
+    {
+      "id": "l15-v16",
+      "lessonId": 15,
+      "kana": "おもいだします",
+      "kanji": "",
+      "romaji": "omoidashimasu",
+      "indonesian": "teringat",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "おもいだします",
+      "examples": [
+        {
+          "id": "l15-v16-e1",
+          "japanese": "おもいだします。",
+          "romaji": "omoidashimasu.",
+          "indonesian": "teringat"
+        }
+      ]
+    },
+    {
+      "id": "l15-v17",
+      "lessonId": 15,
+      "kana": "いらっしゃいます",
+      "kanji": "",
+      "romaji": "irasshaimasu",
+      "indonesian": "ada (hidup)",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "いらっしゃいます",
+      "examples": [
+        {
+          "id": "l15-v17-e1",
+          "japanese": "いらっしゃいます。",
+          "romaji": "irasshaimasu.",
+          "indonesian": "ada (hidup)"
+        }
+      ]
+    },
+    {
+      "id": "l15-v18",
+      "lessonId": 15,
+      "kana": "しょくぎょう",
+      "kanji": "",
+      "romaji": "shokugyou",
+      "indonesian": "pekerjaan, profesi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "しょくぎょう",
+      "examples": [
+        {
+          "id": "l15-v18-e1",
+          "japanese": "しょくぎょう。",
+          "romaji": "shokugyou.",
+          "indonesian": "pekerjaan, profesi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v19",
+      "lessonId": 15,
+      "kana": "こうむいん",
+      "kanji": "",
+      "romaji": "koumuin",
+      "indonesian": "pegawai negeri",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "こうむいん",
+      "examples": [
+        {
+          "id": "l15-v19-e1",
+          "japanese": "こうむいん。",
+          "romaji": "koumuin.",
+          "indonesian": "pegawai negeri"
+        }
+      ]
+    },
+    {
+      "id": "l15-v20",
+      "lessonId": 15,
+      "kana": "えきいん",
+      "kanji": "",
+      "romaji": "ekiin",
+      "indonesian": "pegawai stasiun",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "えきいん",
+      "examples": [
+        {
+          "id": "l15-v20-e1",
+          "japanese": "えきいん。",
+          "romaji": "ekiin.",
+          "indonesian": "pegawai stasiun"
+        }
+      ]
+    },
+    {
+      "id": "l15-v21",
+      "lessonId": 15,
+      "kana": "ゆうびんきょくいん",
+      "kanji": "",
+      "romaji": "yuubinkyokuin",
+      "indonesian": "pegawai kantor pos",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "ゆうびんきょくいん",
+      "examples": [
+        {
+          "id": "l15-v21-e1",
+          "japanese": "ゆうびんきょくいん。",
+          "romaji": "yuubinkyokuin.",
+          "indonesian": "pegawai kantor pos"
+        }
+      ]
+    },
+    {
+      "id": "l15-v22",
+      "lessonId": 15,
+      "kana": "てんいん",
+      "kanji": "",
+      "romaji": "tenin",
+      "indonesian": "pegawai toko",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "てんいん",
+      "examples": [
+        {
+          "id": "l15-v22-e1",
+          "japanese": "てんいん。",
+          "romaji": "tenin.",
+          "indonesian": "pegawai toko"
+        }
+      ]
+    },
+    {
+      "id": "l15-v23",
+      "lessonId": 15,
+      "kana": "ちょうりし",
+      "kanji": "",
+      "romaji": "chourishi",
+      "indonesian": "tukang masak",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "ちょうりし",
+      "examples": [
+        {
+          "id": "l15-v23-e1",
+          "japanese": "ちょうりし。",
+          "romaji": "chourishi.",
+          "indonesian": "tukang masak"
+        }
+      ]
+    },
+    {
+      "id": "l15-v24",
+      "lessonId": 15,
+      "kana": "りようし",
+      "kanji": "",
+      "romaji": "riyoushi",
+      "indonesian": "tukang potong rambut",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "りようし",
+      "examples": [
+        {
+          "id": "l15-v24-e1",
+          "japanese": "りようし。",
+          "romaji": "riyoushi.",
+          "indonesian": "tukang potong rambut"
+        }
+      ]
+    },
+    {
+      "id": "l15-v25",
+      "lessonId": 15,
+      "kana": "びようし",
+      "kanji": "",
+      "romaji": "biyoushi",
+      "indonesian": "ahli kecantikan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "びようし",
+      "examples": [
+        {
+          "id": "l15-v25-e1",
+          "japanese": "びようし。",
+          "romaji": "biyoushi.",
+          "indonesian": "ahli kecantikan"
+        }
+      ]
+    },
+    {
+      "id": "l15-v26",
+      "lessonId": 15,
+      "kana": "きょうし",
+      "kanji": "",
+      "romaji": "kyoushi",
+      "indonesian": "guru",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "きょうし",
+      "examples": [
+        {
+          "id": "l15-v26-e1",
+          "japanese": "きょうし。",
+          "romaji": "kyoushi.",
+          "indonesian": "guru"
+        }
+      ]
+    },
+    {
+      "id": "l15-v27",
+      "lessonId": 15,
+      "kana": "べんごし",
+      "kanji": "",
+      "romaji": "bengoshi",
+      "indonesian": "pengacara",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "べんごし",
+      "examples": [
+        {
+          "id": "l15-v27-e1",
+          "japanese": "べんごし。",
+          "romaji": "bengoshi.",
+          "indonesian": "pengacara"
+        }
+      ]
+    },
+    {
+      "id": "l15-v28",
+      "lessonId": 15,
+      "kana": "かんごし",
+      "kanji": "",
+      "romaji": "kangoshi",
+      "indonesian": "perawat",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "かんごし",
+      "examples": [
+        {
+          "id": "l15-v28-e1",
+          "japanese": "かんごし。",
+          "romaji": "kangoshi.",
+          "indonesian": "perawat"
+        }
+      ]
+    },
+    {
+      "id": "l15-v29",
+      "lessonId": 15,
+      "kana": "うんてんしゅ",
+      "kanji": "",
+      "romaji": "untenshu",
+      "indonesian": "sopir",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "うんてんしゅ",
+      "examples": [
+        {
+          "id": "l15-v29-e1",
+          "japanese": "うんてんしゅ。",
+          "romaji": "untenshu.",
+          "indonesian": "sopir"
+        }
+      ]
+    },
+    {
+      "id": "l15-v30",
+      "lessonId": 15,
+      "kana": "けいさつかん",
+      "kanji": "",
+      "romaji": "keisatsukan",
+      "indonesian": "polisi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "けいさつかん",
+      "examples": [
+        {
+          "id": "l15-v30-e1",
+          "japanese": "けいさつかん。",
+          "romaji": "keisatsukan.",
+          "indonesian": "polisi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v31",
+      "lessonId": 15,
+      "kana": "がいこうかん",
+      "kanji": "",
+      "romaji": "gaikoukan",
+      "indonesian": "diplomat",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "がいこうかん",
+      "examples": [
+        {
+          "id": "l15-v31-e1",
+          "japanese": "がいこうかん。",
+          "romaji": "gaikoukan.",
+          "indonesian": "diplomat"
+        }
+      ]
+    },
+    {
+      "id": "l15-v32",
+      "lessonId": 15,
+      "kana": "せいじか",
+      "kanji": "",
+      "romaji": "seijika",
+      "indonesian": "politikus",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "せいじか",
+      "examples": [
+        {
+          "id": "l15-v32-e1",
+          "japanese": "せいじか。",
+          "romaji": "seijika.",
+          "indonesian": "politikus"
+        }
+      ]
+    },
+    {
+      "id": "l15-v33",
+      "lessonId": 15,
+      "kana": "がか",
+      "kanji": "",
+      "romaji": "gaka",
+      "indonesian": "pelukis",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "がか",
+      "examples": [
+        {
+          "id": "l15-v33-e1",
+          "japanese": "がか。",
+          "romaji": "gaka.",
+          "indonesian": "pelukis"
+        }
+      ]
+    },
+    {
+      "id": "l15-v34",
+      "lessonId": 15,
+      "kana": "さっか",
+      "kanji": "",
+      "romaji": "sakka",
+      "indonesian": "pengarang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "さっか",
+      "examples": [
+        {
+          "id": "l15-v34-e1",
+          "japanese": "さっか。",
+          "romaji": "sakka.",
+          "indonesian": "pengarang"
+        }
+      ]
+    },
+    {
+      "id": "l15-v35",
+      "lessonId": 15,
+      "kana": "おんがくか",
+      "kanji": "",
+      "romaji": "ongakuka",
+      "indonesian": "musisi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "おんがくか",
+      "examples": [
+        {
+          "id": "l15-v35-e1",
+          "japanese": "おんがくか。",
+          "romaji": "ongakuka.",
+          "indonesian": "musisi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v36",
+      "lessonId": 15,
+      "kana": "けんちくか",
+      "kanji": "",
+      "romaji": "kenchikuka",
+      "indonesian": "arsitek",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "けんちくか",
+      "examples": [
+        {
+          "id": "l15-v36-e1",
+          "japanese": "けんちくか。",
+          "romaji": "kenchikuka.",
+          "indonesian": "arsitek"
+        }
+      ]
+    },
+    {
+      "id": "l15-v37",
+      "lessonId": 15,
+      "kana": "エンジニア",
+      "kanji": "",
+      "romaji": "enjinia",
+      "indonesian": "insinyur",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "エンジニア",
+      "examples": [
+        {
+          "id": "l15-v37-e1",
+          "japanese": "エンジニア。",
+          "romaji": "enjinia.",
+          "indonesian": "insinyur"
+        }
+      ]
+    },
+    {
+      "id": "l15-v38",
+      "lessonId": 15,
+      "kana": "デザイナー",
+      "kanji": "",
+      "romaji": "dezainaa",
+      "indonesian": "perancang busana",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "デザイナー",
+      "examples": [
+        {
+          "id": "l15-v38-e1",
+          "japanese": "デザイナー。",
+          "romaji": "dezainaa.",
+          "indonesian": "perancang busana"
+        }
+      ]
+    },
+    {
+      "id": "l15-v39",
+      "lessonId": 15,
+      "kana": "ジャーナリスト",
+      "kanji": "",
+      "romaji": "jaanarisuto",
+      "indonesian": "wartawan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "ジャーナリスト",
+      "examples": [
+        {
+          "id": "l15-v39-e1",
+          "japanese": "ジャーナリスト。",
+          "romaji": "jaanarisuto.",
+          "indonesian": "wartawan"
+        }
+      ]
+    },
+    {
+      "id": "l15-v40",
+      "lessonId": 15,
+      "kana": "かしゅ",
+      "kanji": "",
+      "romaji": "kashu",
+      "indonesian": "penyanyi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "かしゅ",
+      "examples": [
+        {
+          "id": "l15-v40-e1",
+          "japanese": "かしゅ。",
+          "romaji": "kashu.",
+          "indonesian": "penyanyi"
+        }
+      ]
+    },
+    {
+      "id": "l15-v41",
+      "lessonId": 15,
+      "kana": "はいゆう",
+      "kanji": "",
+      "romaji": "haiyuu",
+      "indonesian": "aktor / artis",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "はいゆう",
+      "examples": [
+        {
+          "id": "l15-v41-e1",
+          "japanese": "はいゆう。",
+          "romaji": "haiyuu.",
+          "indonesian": "aktor / artis"
+        }
+      ]
+    },
+    {
+      "id": "l15-v42",
+      "lessonId": 15,
+      "kana": "スポーツせんしゅ",
+      "kanji": "",
+      "romaji": "supootsusenshu",
+      "indonesian": "olahragawan / atlit",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-15"
+      ],
+      "audioText": "スポーツせんしゅ",
+      "examples": [
+        {
+          "id": "l15-v42-e1",
+          "japanese": "スポーツせんしゅ。",
+          "romaji": "supootsusenshu.",
+          "indonesian": "olahragawan / atlit"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l15-g1",
+      "lessonId": 15,
+      "title": "Vてもいいですか",
+      "pattern": "Vてもいいですか",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 15 ini berfokus pada pola “Vてもいいですか”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l15-g1-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vてもいいですか",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l15-g1-e1",
+          "japanese": "ここで すわってもいいですか。",
+          "romaji": "Koko de suwatte mo ii desu ka.",
+          "indonesian": "Bolehkah saya duduk di sini?"
+        },
+        {
+          "id": "l15-g1-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l15-m-3684",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vてもいいですか",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vてもいいですか.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l15-g2",
+      "lessonId": 15,
+      "title": "Vてはいけません",
+      "pattern": "Vてはいけません",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 15 ini berfokus pada pola “Vてはいけません”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l15-g2-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vてはいけません",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l15-g2-e1",
+          "japanese": "ここで たばこを すってはいけません。",
+          "romaji": "Koko de tabako o sutte wa ikemasen.",
+          "indonesian": "Tidak boleh merokok di sini."
+        },
+        {
+          "id": "l15-g2-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l15-m-15536",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vてはいけません",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vてはいけません.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l15-g3",
+      "lessonId": 15,
+      "title": "Vています untuk keadaan",
+      "pattern": "Vています untuk keadaan",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 15 ini berfokus pada pola “Vています untuk keadaan”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l15-g3-s1",
+          "label": "Struktur dasar",
+          "pattern": "Vています untuk keadaan",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l15-g3-e1",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l15-g3-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l15-m-51536",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Vています untuk keadaan",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Vています untuk keadaan.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l15-g4",
+      "lessonId": 15,
+      "title": "Nに すんでいます",
+      "pattern": "Nに すんでいます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 15 ini berfokus pada pola “Nに すんでいます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l15-g4-s1",
+          "label": "Struktur dasar",
+          "pattern": "Nに すんでいます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l15-g4-e1",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l15-g4-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l15-m-99446",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Nに すんでいます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Nに すんでいます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l15-g5",
+      "lessonId": 15,
+      "title": "しっています / しりません",
+      "pattern": "しっています / しりません",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 15 ini berfokus pada pola “しっています / しりません”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l15-g5-s1",
+          "label": "Struktur dasar",
+          "pattern": "しっています / しりません",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l15-g5-e1",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l15-g5-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l15-m-98682",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: しっています / しりません",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola しっています / しりません.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "l15-c1",
+      "lessonId": 15,
+      "title": "Keluarganya?",
+      "context": "Percakapan pendek untuk melatih materi Bab 15.",
+      "lines": [
+        {
+          "id": "l15-c1-l1",
+          "speaker": "Rido",
+          "japanese": "すみません。ちょっと いいですか。",
+          "romaji": "Sumimasen. Chotto ii desu ka.",
+          "indonesian": "Permisi. Boleh sebentar?"
+        },
+        {
+          "id": "l15-c1-l2",
+          "speaker": "Sato",
+          "japanese": "はい、いいですよ。",
+          "romaji": "Hai, ii desu yo.",
+          "indonesian": "Ya, boleh."
+        },
+        {
+          "id": "l15-c1-l3",
+          "speaker": "Rido",
+          "japanese": "ここで すわってもいいですか。",
+          "romaji": "Koko de suwatte mo ii desu ka.",
+          "indonesian": "Bolehkah saya duduk di sini?"
+        },
+        {
+          "id": "l15-c1-l4",
+          "speaker": "Sato",
+          "japanese": "いいですね。もういちど れんしゅうしましょう。",
+          "romaji": "Ii desu ne. Mou ichido renshuu shimashou.",
+          "indonesian": "Bagus. Mari latihan sekali lagi."
+        }
+      ],
+      "roleplayPrompts": [
+        "Latihan percakapan dengan tema: Keluarganya?.",
+        "User menjawab dalam bahasa Jepang sederhana.",
+        "Harmoko Sensei memberi koreksi singkat."
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "id": "l15-cn1",
+      "lessonId": 15,
+      "title": "Pekerjaan",
+      "body": "Topik referensi Bab 15: Pekerjaan. Bagian ini membantu memahami konteks pemakaian bahasa Jepang dalam kehidupan sehari-hari, budaya, tempat, kebiasaan, atau ungkapan yang sering muncul.",
+      "tips": [
+        "Baca kosakata yang berhubungan dengan topik ini.",
+        "Coba buat 3 kalimat pendek memakai kosakata bab ini.",
+        "Gunakan flashcard untuk mengulang kata yang sulit.",
+        "Minta Harmoko Sensei membuat roleplay sesuai topik ini."
+      ]
+    },
+    {
+      "id": "l15-cn2",
+      "lessonId": 15,
+      "title": "Cara belajar efektif",
+      "body": "Pelajari pola kalimat, lihat contoh, lalu langsung praktik percakapan. Jangan hanya menghafal arti; gunakan kosakata dalam kalimat pendek.",
+      "tips": [
+        "Pahami pola sebelum menghafal banyak contoh.",
+        "Latihan suara dengan tombol speaker.",
+        "Tandai pelajaran selesai setelah membaca semua tab."
+      ]
+    }
+  ],
+  "aiSuggestedPrompts": [
+    "Jelaskan tata bahasa Bab 15 dengan sederhana.",
+    "Buat 10 soal dari grammar Bab 15.",
+    "Buat roleplay tentang Keluarganya?.",
+    "Buat contoh kalimat dari kosakata Bab 15.",
+    "Koreksi kalimat Jepang saya."
+  ]
+}

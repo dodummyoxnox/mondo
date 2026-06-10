@@ -1,0 +1,62 @@
+import lesson1 from "./lesson-1.json"
+import lesson2 from "./lesson-2.json"
+import lesson3 from "./lesson-3.json"
+import lesson4 from "./lesson-4.json"
+import lesson5 from "./lesson-5.json"
+import lesson6 from "./lesson-6.json"
+import lesson7 from "./lesson-7.json"
+import lesson8 from "./lesson-8.json"
+import lesson9 from "./lesson-9.json"
+import lesson10 from "./lesson-10.json"
+import lesson11 from "./lesson-11.json"
+import lesson12 from "./lesson-12.json"
+import lesson13 from "./lesson-13.json"
+import lesson14 from "./lesson-14.json"
+import lesson15 from "./lesson-15.json"
+import lesson16 from "./lesson-16.json"
+import lesson17 from "./lesson-17.json"
+import lesson18 from "./lesson-18.json"
+import lesson19 from "./lesson-19.json"
+import lesson20 from "./lesson-20.json"
+import lesson21 from "./lesson-21.json"
+import lesson22 from "./lesson-22.json"
+import lesson23 from "./lesson-23.json"
+import lesson24 from "./lesson-24.json"
+import lesson25 from "./lesson-25.json"
+import lesson26 from "./lesson-26.json"
+import lesson27 from "./lesson-27.json"
+import lesson28 from "./lesson-28.json"
+import lesson29 from "./lesson-29.json"
+import lesson30 from "./lesson-30.json"
+import lesson31 from "./lesson-31.json"
+import lesson32 from "./lesson-32.json"
+import lesson33 from "./lesson-33.json"
+import lesson34 from "./lesson-34.json"
+import lesson35 from "./lesson-35.json"
+import lesson36 from "./lesson-36.json"
+import lesson37 from "./lesson-37.json"
+import lesson38 from "./lesson-38.json"
+import lesson39 from "./lesson-39.json"
+import lesson40 from "./lesson-40.json"
+import lesson41 from "./lesson-41.json"
+import lesson42 from "./lesson-42.json"
+import lesson43 from "./lesson-43.json"
+import lesson44 from "./lesson-44.json"
+import lesson45 from "./lesson-45.json"
+import lesson46 from "./lesson-46.json"
+import lesson47 from "./lesson-47.json"
+import lesson48 from "./lesson-48.json"
+import lesson49 from "./lesson-49.json"
+import lesson50 from "./lesson-50.json"
+
+import type { Lesson } from "@/types"
+
+export const lessons = [lesson1, lesson2, lesson3, lesson4, lesson5, lesson6, lesson7, lesson8, lesson9, lesson10, lesson11, lesson12, lesson13, lesson14, lesson15, lesson16, lesson17, lesson18, lesson19, lesson20, lesson21, lesson22, lesson23, lesson24, lesson25, lesson26, lesson27, lesson28, lesson29, lesson30, lesson31, lesson32, lesson33, lesson34, lesson35, lesson36, lesson37, lesson38, lesson39, lesson40, lesson41, lesson42, lesson43, lesson44, lesson45, lesson46, lesson47, lesson48, lesson49, lesson50] as Lesson[]
+
+export function getAllLessons(): Lesson[] {
+  return lessons
+}
+
+export function getLessonById(id: number): Lesson | undefined {
+  return lessons.find((lesson) => lesson.id === id)
+}

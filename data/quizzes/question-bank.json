@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "q-kana-001",
+    "level": "N5",
+    "category": "kana",
+    "type": "multiple-choice",
+    "prompt": "Pilih bacaan hiragana yang benar.",
+    "question": "Huruf ini dibaca apa?",
+    "japanese": "あ",
+    "romaji": "a",
+    "answer": "a",
+    "options": [
+      "a",
+      "i",
+      "u",
+      "e"
+    ],
+    "explanation": "あ dibaca 'a'.",
+    "tags": [
+      "hiragana",
+      "kana",
+      "basic"
+    ]
+  },
+  {
+    "id": "q-kana-002",
+    "level": "N5",
+    "category": "kana",
+    "type": "multiple-choice",
+    "prompt": "Pilih bacaan katakana yang benar.",
+    "question": "Huruf ini dibaca apa?",
+    "japanese": "カ",
+    "romaji": "ka",
+    "answer": "ka",
+    "options": [
+      "ka",
+      "sa",
+      "ta",
+      "na"
+    ],
+    "explanation": "カ adalah katakana untuk bunyi 'ka'.",
+    "tags": [
+      "katakana",
+      "kana",
+      "basic"
+    ]
+  },
+  {
+    "id": "q-kana-003",
+    "level": "N5",
+    "category": "kana",
+    "type": "fill-blank",
+    "prompt": "Isi bacaan romaji.",
+    "question": "Hiragana し dibaca ...",
+    "japanese": "し",
+    "romaji": "shi",
+    "answer": "shi",
+    "acceptableAnswers": [
+      "shi",
+      "si"
+    ],
+    "explanation": "し biasanya ditulis 'shi' dalam romaji Hepburn.",
+    "tags": [
+      "hiragana",
+      "kana"
+    ]
+  },
+  {
+    "id": "q-kana-004",
+    "level": "N5",
+    "category": "kana",
+    "type": "multiple-choice",
+    "prompt": "Pilih katakana untuk bunyi 'to'.",
+    "question": "Mana katakana yang dibaca 'to'?",
+    "answer": "ト",
+    "options": [
+      "ト",
+      "ナ",
+      "カ",
+      "モ"
+    ],
+    "explanation": "ト dibaca 'to'.",
+    "tags": [
+      "katakana",
+      "kana"
+    ]
+  },
+  {
+    "id": "q-kotoba-001",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Apa arti kosakata ini?",
+    "question": "Pilih arti yang benar.",
+    "japanese": "わたし",
+    "romaji": "watashi",
+    "answer": "saya",
+    "options": [
+      "saya",
+      "kamu",
+      "guru",
+      "teman"
+    ],
+    "explanation": "わたし berarti saya.",
+    "tags": [
+      "kotoba",
+      "bab1"
+    ]
+  },
+  {
+    "id": "q-kotoba-002",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih bahasa Jepang yang benar.",
+    "question": "Guru dalam bahasa Jepang adalah ...",
+    "answer": "せんせい",
+    "options": [
+      "せんせい",
+      "がくせい",
+      "いしゃ",
+      "ともだち"
+    ],
+    "explanation": "Guru adalah せんせい.",
+    "tags": [
+      "kotoba",
+      "bab1"
+    ]
+  },
+  {
+    "id": "q-kotoba-003",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "fill-blank",
+    "prompt": "Isi kosakata Jepang.",
+    "question": "Buku dalam bahasa Jepang adalah ...",
+    "answer": "ほん",
+    "acceptableAnswers": [
+      "ほん",
+      "本"
+    ],
+    "explanation": "Buku adalah ほん（本）.",
+    "tags": [
+      "kotoba",
+      "bab2"
+    ]
+  },
+  {
+    "id": "q-kotoba-004",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Apa arti kosakata ini?",
+    "question": "Pilih arti yang benar.",
+    "japanese": "じしょ",
+    "romaji": "jisho",
+    "answer": "kamus",
+    "options": [
+      "kamus",
+      "buku",
+      "tas",
+      "pensil"
+    ],
+    "explanation": "じしょ berarti kamus.",
+    "tags": [
+      "kotoba",
+      "bab2"
+    ]
+  },
+  {
+    "id": "q-kotoba-005",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "ここ artinya ...",
+    "japanese": "ここ",
+    "romaji": "koko",
+    "answer": "di sini",
+    "options": [
+      "di sini",
+      "di situ",
+      "di sana",
+      "di mana"
+    ],
+    "explanation": "ここ berarti di sini.",
+    "tags": [
+      "kotoba",
+      "bab3"
+    ]
+  },
+  {
+    "id": "q-kotoba-006",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih bahasa Jepang yang benar.",
+    "question": "Sekarang dalam bahasa Jepang adalah ...",
+    "answer": "いま",
+    "options": [
+      "いま",
+      "あした",
+      "きのう",
+      "らいねん"
+    ],
+    "explanation": "Sekarang adalah いま.",
+    "tags": [
+      "kotoba",
+      "bab4"
+    ]
+  },
+  {
+    "id": "q-kotoba-007",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Apa arti kata ini?",
+    "question": "いきます artinya ...",
+    "japanese": "いきます",
+    "romaji": "ikimasu",
+    "answer": "pergi",
+    "options": [
+      "pergi",
+      "datang",
+      "pulang",
+      "makan"
+    ],
+    "explanation": "いきます berarti pergi.",
+    "tags": [
+      "kotoba",
+      "bab5",
+      "verb"
+    ]
+  },
+  {
+    "id": "q-kotoba-008",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Apa arti kata ini?",
+    "question": "たべます artinya ...",
+    "japanese": "たべます",
+    "romaji": "tabemasu",
+    "answer": "makan",
+    "options": [
+      "makan",
+      "minum",
+      "melihat",
+      "membaca"
+    ],
+    "explanation": "たべます berarti makan.",
+    "tags": [
+      "kotoba",
+      "bab6",
+      "verb"
+    ]
+  },
+  {
+    "id": "q-kotoba-009",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "fill-blank",
+    "prompt": "Isi bahasa Jepang.",
+    "question": "Air dalam bahasa Jepang adalah ...",
+    "answer": "みず",
+    "acceptableAnswers": [
+      "みず",
+      "水"
+    ],
+    "explanation": "Air adalah みず（水）.",
+    "tags": [
+      "kotoba",
+      "bab6"
+    ]
+  },
+  {
+    "id": "q-kotoba-010",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "おおきい artinya ...",
+    "japanese": "おおきい",
+    "romaji": "ookii",
+    "answer": "besar",
+    "options": [
+      "besar",
+      "kecil",
+      "baru",
+      "lama"
+    ],
+    "explanation": "おおきい berarti besar.",
+    "tags": [
+      "kotoba",
+      "adjective",
+      "bab8"
+    ]
+  },
+  {
+    "id": "q-kotoba-011",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "すき artinya ...",
+    "japanese": "すき",
+    "romaji": "suki",
+    "answer": "suka",
+    "options": [
+      "suka",
+      "tidak suka",
+      "pandai",
+      "mengerti"
+    ],
+    "explanation": "すき berarti suka.",
+    "tags": [
+      "kotoba",
+      "bab9"
+    ]
+  },
+  {
+    "id": "q-kotoba-012",
+    "level": "N5",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih bahasa Jepang yang benar.",
+    "question": "Atas dalam bahasa Jepang adalah ...",
+    "answer": "うえ",
+    "options": [
+      "うえ",
+      "した",
+      "まえ",
+      "となり"
+    ],
+    "explanation": "Atas adalah うえ.",
+    "tags": [
+      "kotoba",
+      "bab10"
+    ]
+  },
+  {
+    "id": "q-kanji-001",
+    "level": "N5",
+    "category": "kanji",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kanji.",
+    "question": "日 artinya ...",
+    "japanese": "日",
+    "romaji": "hi / nichi",
+    "answer": "hari / matahari",
+    "options": [
+      "hari / matahari",
+      "bulan",
+      "api",
+      "air"
+    ],
+    "explanation": "日 bisa berarti hari atau matahari.",
+    "tags": [
+      "kanji",
+      "N5"
+    ]
+  },
+  {
+    "id": "q-kanji-002",
+    "level": "N5",
+    "category": "kanji",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kanji.",
+    "question": "月 artinya ...",
+    "japanese": "月",
+    "romaji": "tsuki / getsu",
+    "answer": "bulan",
+    "options": [
+      "bulan",
+      "api",
+      "air",
+      "orang"
+    ],
+    "explanation": "月 berarti bulan, juga dipakai untuk nama hari Senin（月曜日）.",
+    "tags": [
+      "kanji",
+      "N5"
+    ]
+  },
+  {
+    "id": "q-kanji-003",
+    "level": "N5",
+    "category": "kanji",
+    "type": "fill-blank",
+    "prompt": "Isi bacaan umum.",
+    "question": "Kanji 山 biasa dibaca ...",
+    "japanese": "山",
+    "romaji": "yama",
+    "answer": "やま",
+    "acceptableAnswers": [
+      "やま",
+      "yama"
+    ],
+    "explanation": "山 dibaca やま dan berarti gunung.",
+    "tags": [
+      "kanji",
+      "N5"
+    ]
+  },
+  {
+    "id": "q-kanji-004",
+    "level": "N5",
+    "category": "kanji",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kanji.",
+    "question": "人 artinya ...",
+    "japanese": "人",
+    "romaji": "hito / jin",
+    "answer": "orang",
+    "options": [
+      "orang",
+      "air",
+      "gunung",
+      "buku"
+    ],
+    "explanation": "人 berarti orang.",
+    "tags": [
+      "kanji",
+      "N5"
+    ]
+  },
+  {
+    "id": "q-kanji-005",
+    "level": "N5",
+    "category": "kanji",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kanji.",
+    "question": "水 artinya ...",
+    "japanese": "水",
+    "romaji": "mizu",
+    "answer": "air",
+    "options": [
+      "air",
+      "api",
+      "kayu",
+      "emas"
+    ],
+    "explanation": "水 berarti air.",
+    "tags": [
+      "kanji",
+      "N5"
+    ]
+  },
+  {
+    "id": "q-particle-001",
+    "level": "N5",
+    "category": "particle",
+    "type": "multiple-choice",
+    "prompt": "Pilih partikel yang tepat.",
+    "question": "わたし__ がくせいです。",
+    "answer": "は",
+    "options": [
+      "は",
+      "を",
+      "で",
+      "に"
+    ],
+    "explanation": "は menandai topik: わたしは がくせいです。",
+    "tags": [
+      "particle",
+      "bunpou",
+      "bab1"
+    ]
+  },
+  {
+    "id": "q-particle-002",
+    "level": "N5",
+    "category": "particle",
+    "type": "multiple-choice",
+    "prompt": "Pilih partikel yang tepat.",
+    "question": "ごはん__ たべます。",
+    "answer": "を",
+    "options": [
+      "を",
+      "は",
+      "に",
+      "へ"
+    ],
+    "explanation": "を menandai objek: ごはんを たべます。",
+    "tags": [
+      "particle",
+      "bunpou",
+      "bab6"
+    ]
+  },
+  {
+    "id": "q-particle-003",
+    "level": "N5",
+    "category": "particle",
+    "type": "fill-blank",
+    "prompt": "Isi partikel.",
+    "question": "がっこう__ いきます。",
+    "answer": "へ",
+    "acceptableAnswers": [
+      "へ",
+      "に"
+    ],
+    "explanation": "Untuk arah tujuan, bisa memakai へ. Dalam banyak konteks に juga bisa dipakai untuk tujuan.",
+    "tags": [
+      "particle",
+      "bunpou",
+      "bab5"
+    ]
+  },
+  {
+    "id": "q-particle-004",
+    "level": "N5",
+    "category": "particle",
+    "type": "multiple-choice",
+    "prompt": "Pilih partikel yang tepat.",
+    "question": "はし__ ごはんを たべます。",
+    "answer": "で",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "explanation": "で dipakai untuk alat/cara: makan dengan sumpit.",
+    "tags": [
+      "particle",
+      "bunpou",
+      "bab7"
+    ]
+  },
+  {
+    "id": "q-particle-005",
+    "level": "N5",
+    "category": "particle",
+    "type": "multiple-choice",
+    "prompt": "Pilih partikel yang tepat.",
+    "question": "つくえの うえ__ ほんが あります。",
+    "answer": "に",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "へ"
+    ],
+    "explanation": "に dipakai untuk lokasi keberadaan: di atas meja ada buku.",
+    "tags": [
+      "particle",
+      "bunpou",
+      "bab10"
+    ]
+  },
+  {
+    "id": "q-bunpou-001",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih pola negatif yang benar.",
+    "question": "Saya bukan dokter.",
+    "answer": "わたしは いしゃじゃありません。",
+    "options": [
+      "わたしは いしゃじゃありません。",
+      "わたしは いしゃです。",
+      "わたしを いしゃじゃありません。",
+      "わたしが いしゃを ありません。"
+    ],
+    "explanation": "Bentuk negatif dari Nです adalah Nじゃありません.",
+    "tags": [
+      "bunpou",
+      "bab1"
+    ]
+  },
+  {
+    "id": "q-bunpou-002",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat tanya yang benar.",
+    "question": "Apakah ini buku?",
+    "answer": "これは ほんですか。",
+    "options": [
+      "これは ほんですか。",
+      "これを ほんですか。",
+      "このは ほんですか。",
+      "これが ほんを ですか。"
+    ],
+    "explanation": "Pola tanya: これは N ですか。",
+    "tags": [
+      "bunpou",
+      "bab2"
+    ]
+  },
+  {
+    "id": "q-bunpou-003",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "fill-blank",
+    "prompt": "Lengkapi kalimat.",
+    "question": "いま くじ__。",
+    "answer": "です",
+    "acceptableAnswers": [
+      "です"
+    ],
+    "explanation": "Untuk menyatakan jam: いま くじです。",
+    "tags": [
+      "bunpou",
+      "bab4"
+    ]
+  },
+  {
+    "id": "q-bunpou-004",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih pola ajakan yang benar.",
+    "question": "Mau menonton film bersama?",
+    "answer": "いっしょに えいがを みませんか。",
+    "options": [
+      "いっしょに えいがを みませんか。",
+      "いっしょに えいがが みませんか。",
+      "いっしょに えいがへ みませんか。",
+      "いっしょに えいがに みませんか。"
+    ],
+    "explanation": "Pola ajakan sopan: Vませんか。",
+    "tags": [
+      "bunpou",
+      "bab6"
+    ]
+  },
+  {
+    "id": "q-bunpou-005",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat yang benar.",
+    "question": "Saya suka musik.",
+    "answer": "わたしは おんがくが すきです。",
+    "options": [
+      "わたしは おんがくが すきです。",
+      "わたしは おんがくを すきです。",
+      "わたしが おんがくを すきです。",
+      "わたしを おんがくが すきです。"
+    ],
+    "explanation": "Untuk suka/tidak suka, objek rasa suka memakai が.",
+    "tags": [
+      "bunpou",
+      "bab9"
+    ]
+  },
+  {
+    "id": "q-bunpou-006",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "fill-blank",
+    "prompt": "Lengkapi bentuk て.",
+    "question": "たべます → たべ__",
+    "answer": "て",
+    "acceptableAnswers": [
+      "て"
+    ],
+    "explanation": "たべます menjadi たべて dalam bentuk て.",
+    "tags": [
+      "bunpou",
+      "verb",
+      "bab14"
+    ]
+  },
+  {
+    "id": "q-bunpou-007",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat izin yang benar.",
+    "question": "Bolehkah saya duduk di sini?",
+    "answer": "ここで すわってもいいですか。",
+    "options": [
+      "ここで すわってもいいですか。",
+      "ここで すわってはいけませんか。",
+      "ここを すわってもいいですか。",
+      "ここに すわりますか。"
+    ],
+    "explanation": "Pola izin: Vてもいいですか。",
+    "tags": [
+      "bunpou",
+      "bab15"
+    ]
+  },
+  {
+    "id": "q-bunpou-008",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih larangan yang benar.",
+    "question": "Tolong jangan foto di sini.",
+    "answer": "ここで しゃしんを とらないでください。",
+    "options": [
+      "ここで しゃしんを とらないでください。",
+      "ここで しゃしんを とってください。",
+      "ここで しゃしんを とらなければなりません。",
+      "ここで しゃしんを とってもいいです。"
+    ],
+    "explanation": "Pola larangan sopan: Vないでください。",
+    "tags": [
+      "bunpou",
+      "bab17"
+    ]
+  },
+  {
+    "id": "q-bunpou-009",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat kemampuan yang benar.",
+    "question": "Saya bisa berbicara bahasa Jepang.",
+    "answer": "にほんごを はなすことができます。",
+    "options": [
+      "にほんごを はなすことができます。",
+      "にほんごを はなしますことです。",
+      "にほんごが はなすです。",
+      "にほんごに はなすことです。"
+    ],
+    "explanation": "Pola kemampuan: V dictionary + ことができます。",
+    "tags": [
+      "bunpou",
+      "bab18"
+    ]
+  },
+  {
+    "id": "q-bunpou-010",
+    "level": "N5",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat pengalaman yang benar.",
+    "question": "Saya pernah pergi ke Jepang.",
+    "answer": "にほんへ いったことがあります。",
+    "options": [
+      "にほんへ いったことがあります。",
+      "にほんへ いきたいです。",
+      "にほんへ いきますことです。",
+      "にほんへ いってあります。"
+    ],
+    "explanation": "Pola pengalaman: Vた + ことがあります。",
+    "tags": [
+      "bunpou",
+      "bab19"
+    ]
+  },
+  {
+    "id": "q-adj-001",
+    "level": "N5",
+    "category": "adjective",
+    "type": "multiple-choice",
+    "prompt": "Pilih bentuk lampau yang benar.",
+    "question": "あつい → bentuk lampau sopan",
+    "answer": "あつかったです",
+    "options": [
+      "あつかったです",
+      "あついでした",
+      "あつくでした",
+      "あつくないです"
+    ],
+    "explanation": "い-adjective lampau: buang い lalu tambah かったです.",
+    "tags": [
+      "adjective",
+      "bunpou",
+      "bab12"
+    ]
+  },
+  {
+    "id": "q-adj-002",
+    "level": "N5",
+    "category": "adjective",
+    "type": "fill-blank",
+    "prompt": "Lengkapi bentuk negatif lampau.",
+    "question": "たかい → たかく__です",
+    "answer": "なかった",
+    "acceptableAnswers": [
+      "なかった"
+    ],
+    "explanation": "Negatif lampau i-adjective: ～くなかったです.",
+    "tags": [
+      "adjective",
+      "bunpou",
+      "bab12"
+    ]
+  },
+  {
+    "id": "q-verb-001",
+    "level": "N5",
+    "category": "verb",
+    "type": "multiple-choice",
+    "prompt": "Pilih bentuk kamus.",
+    "question": "たべます bentuk kamusnya adalah ...",
+    "answer": "たべる",
+    "options": [
+      "たべる",
+      "たべて",
+      "たべた",
+      "たべない"
+    ],
+    "explanation": "たべます → たべる.",
+    "tags": [
+      "verb",
+      "bunpou",
+      "bab18"
+    ]
+  },
+  {
+    "id": "q-verb-002",
+    "level": "N5",
+    "category": "verb",
+    "type": "multiple-choice",
+    "prompt": "Pilih bentuk ない.",
+    "question": "いきます bentuk ない adalah ...",
+    "answer": "いかない",
+    "options": [
+      "いかない",
+      "いきない",
+      "いってない",
+      "いかません"
+    ],
+    "explanation": "いきます → いかない.",
+    "tags": [
+      "verb",
+      "bunpou",
+      "bab17"
+    ]
+  },
+  {
+    "id": "q-n4-001",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "あめが ふったら、いきません。",
+    "japanese": "あめが ふったら、いきません。",
+    "romaji": "Ame ga futtara, ikimasen.",
+    "answer": "Kalau hujan, saya tidak pergi.",
+    "options": [
+      "Kalau hujan, saya tidak pergi.",
+      "Walaupun hujan, saya pergi.",
+      "Karena hujan, saya pergi.",
+      "Sebelum hujan, saya pergi."
+    ],
+    "explanation": "たら dipakai untuk kondisi: kalau/jika.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "tara"
+    ]
+  },
+  {
+    "id": "q-n4-002",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "やすくても、かいません。",
+    "japanese": "やすくても、かいません。",
+    "romaji": "Yasukute mo, kaimasen.",
+    "answer": "Walaupun murah, saya tidak membeli.",
+    "options": [
+      "Walaupun murah, saya tidak membeli.",
+      "Kalau murah, saya membeli.",
+      "Karena murah, saya membeli.",
+      "Sebelum murah, saya tidak membeli."
+    ],
+    "explanation": "ても berarti walaupun/meskipun.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "temo"
+    ]
+  },
+  {
+    "id": "q-n4-003",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "fill-blank",
+    "prompt": "Lengkapi pola.",
+    "question": "にほんごを はなせる__なりました。",
+    "answer": "ように",
+    "acceptableAnswers": [
+      "ように"
+    ],
+    "explanation": "V potensial + ようになりました berarti menjadi bisa melakukan sesuatu.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "you-ni"
+    ]
+  },
+  {
+    "id": "q-n4-004",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih kalimat yang benar.",
+    "question": "Saya belajar sambil mendengarkan musik.",
+    "answer": "おんがくを ききながら べんきょうします。",
+    "options": [
+      "おんがくを ききながら べんきょうします。",
+      "おんがくを きいてから べんきょうします。",
+      "おんがくを きくために べんきょうします。",
+      "おんがくを きいたら べんきょうします。"
+    ],
+    "explanation": "ながら dipakai untuk dua kegiatan bersamaan.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "nagara"
+    ]
+  },
+  {
+    "id": "q-n4-005",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "さいふを なくしてしまいました。",
+    "japanese": "さいふを なくしてしまいました。",
+    "romaji": "Saifu o nakushite shimaimashita.",
+    "answer": "Saya terlanjur kehilangan dompet.",
+    "options": [
+      "Saya terlanjur kehilangan dompet.",
+      "Saya ingin membeli dompet.",
+      "Saya sedang mencari dompet.",
+      "Saya diberi dompet."
+    ],
+    "explanation": "Vてしまいました sering menyatakan sesuatu yang terlanjur terjadi atau disesalkan.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "shimau"
+    ]
+  },
+  {
+    "id": "q-n4-006",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "らいねん にほんへ いくつもりです。",
+    "japanese": "らいねん にほんへ いくつもりです。",
+    "romaji": "Rainen Nihon e iku tsumori desu.",
+    "answer": "Tahun depan saya berniat pergi ke Jepang.",
+    "options": [
+      "Tahun depan saya berniat pergi ke Jepang.",
+      "Saya pernah pergi ke Jepang.",
+      "Saya sedang pergi ke Jepang.",
+      "Saya tidak akan pergi ke Jepang."
+    ],
+    "explanation": "つもりです menyatakan niat/rencana.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "tsumori"
+    ]
+  },
+  {
+    "id": "q-n4-007",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih bentuk yang paling tepat.",
+    "question": "Sebaiknya minum obat.",
+    "answer": "くすりを のんだほうがいいです。",
+    "options": [
+      "くすりを のんだほうがいいです。",
+      "くすりを のみたいです。",
+      "くすりを のんでもいいです。",
+      "くすりを のまないでください。"
+    ],
+    "explanation": "Vたほうがいいです berarti sebaiknya melakukan sesuatu.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "hou-ga-ii"
+    ]
+  },
+  {
+    "id": "q-n4-008",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "fill-blank",
+    "prompt": "Lengkapi pola dugaan.",
+    "question": "あしたは あめ__。",
+    "answer": "でしょう",
+    "acceptableAnswers": [
+      "でしょう",
+      "だろう"
+    ],
+    "explanation": "でしょう dipakai untuk dugaan sopan: mungkin/barangkali.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "deshou"
+    ]
+  },
+  {
+    "id": "q-n4-009",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "この じしょは つかいやすいです。",
+    "japanese": "この じしょは つかいやすいです。",
+    "romaji": "Kono jisho wa tsukaiyasui desu.",
+    "answer": "Kamus ini mudah digunakan.",
+    "options": [
+      "Kamus ini mudah digunakan.",
+      "Kamus ini sulit digunakan.",
+      "Kamus ini terlalu mahal.",
+      "Kamus ini ingin digunakan."
+    ],
+    "explanation": "Vます-stem + やすい berarti mudah untuk dilakukan.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "yasui"
+    ]
+  },
+  {
+    "id": "q-n4-010",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "この かんじは おぼえにくいです。",
+    "japanese": "この かんじは おぼえにくいです。",
+    "romaji": "Kono kanji wa oboenikui desu.",
+    "answer": "Kanji ini sulit diingat.",
+    "options": [
+      "Kanji ini sulit diingat.",
+      "Kanji ini mudah diingat.",
+      "Kanji ini sudah diingat.",
+      "Kanji ini ingin diingat."
+    ],
+    "explanation": "Vます-stem + にくい berarti sulit untuk dilakukan.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "nikui"
+    ]
+  },
+  {
+    "id": "q-n4-011",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "fill-blank",
+    "prompt": "Lengkapi pola setelah bekerja.",
+    "question": "しごとの__で、えいがを みます。",
+    "answer": "あと",
+    "acceptableAnswers": [
+      "あと",
+      "後"
+    ],
+    "explanation": "Nのあとで berarti setelah N.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "ato-de"
+    ]
+  },
+  {
+    "id": "q-n4-012",
+    "level": "N4",
+    "category": "bunpou",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti yang benar.",
+    "question": "わすれないように、メモします。",
+    "japanese": "わすれないように、メモします。",
+    "romaji": "Wasurenai you ni, memo shimasu.",
+    "answer": "Saya mencatat agar tidak lupa.",
+    "options": [
+      "Saya mencatat agar tidak lupa.",
+      "Saya lupa mencatat.",
+      "Saya mencatat setelah lupa.",
+      "Saya tidak perlu mencatat."
+    ],
+    "explanation": "ように dipakai untuk menyatakan tujuan/agar.",
+    "tags": [
+      "N4",
+      "bunpou",
+      "you-ni"
+    ]
+  },
+  {
+    "id": "q-kotoba-013",
+    "level": "N4",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kosakata.",
+    "question": "しんぱいします artinya ...",
+    "japanese": "しんぱいします",
+    "romaji": "shinpai shimasu",
+    "answer": "khawatir",
+    "options": [
+      "khawatir",
+      "menjelaskan",
+      "memperkenalkan",
+      "menjemput"
+    ],
+    "explanation": "しんぱいします berarti khawatir.",
+    "tags": [
+      "kotoba",
+      "N4"
+    ]
+  },
+  {
+    "id": "q-kotoba-014",
+    "level": "N4",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kosakata.",
+    "question": "せつめいします artinya ...",
+    "japanese": "せつめいします",
+    "romaji": "setsumei shimasu",
+    "answer": "menjelaskan",
+    "options": [
+      "menjelaskan",
+      "memperkenalkan",
+      "membayar",
+      "mengembalikan"
+    ],
+    "explanation": "せつめいします berarti menjelaskan.",
+    "tags": [
+      "kotoba",
+      "N4"
+    ]
+  },
+  {
+    "id": "q-kotoba-015",
+    "level": "N4",
+    "category": "kotoba",
+    "type": "fill-blank",
+    "prompt": "Isi kosakata Jepang.",
+    "question": "Kesempatan dalam bahasa Jepang adalah ...",
+    "answer": "チャンス",
+    "acceptableAnswers": [
+      "チャンス",
+      "chansu"
+    ],
+    "explanation": "Kesempatan bisa disebut チャンス.",
+    "tags": [
+      "kotoba",
+      "N4"
+    ]
+  },
+  {
+    "id": "q-kotoba-016",
+    "level": "N4",
+    "category": "kotoba",
+    "type": "multiple-choice",
+    "prompt": "Pilih arti kosakata.",
+    "question": "けんきゅうします artinya ...",
+    "japanese": "けんきゅうします",
+    "romaji": "kenkyuu shimasu",
+    "answer": "meneliti",
+    "options": [
+      "meneliti",
+      "menunggu",
+      "masuk",
+      "duduk"
+    ],
+    "explanation": "けんきゅうします berarti meneliti.",
+    "tags": [
+      "kotoba",
+      "N4"
+    ]
+  }
+]

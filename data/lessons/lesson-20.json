@@ -1,0 +1,751 @@
+{
+  "id": 20,
+  "slug": "pelajaran-20",
+  "title": "Pelajaran 20",
+  "subtitle": "Bentuk Biasa",
+  "theme": "Percakapan kasual dengan bentuk biasa",
+  "level": "beginner",
+  "estimatedMinutes": 45,
+  "canDo": [
+    "Memahami tata bahasa utama Bab 20",
+    "Menggunakan pola: Bentuk sopan dan bentuk biasa",
+    "Membaca dan memahami topik info: Cara memanggil orang",
+    "Membuat contoh kalimat sendiri",
+    "Melatih materi dengan flashcard dan Harmoko Sensei"
+  ],
+  "vocabulary": [
+    {
+      "id": "l20-v1",
+      "lessonId": 20,
+      "kana": "いります",
+      "kanji": "",
+      "romaji": "irimasu",
+      "indonesian": "(が) 要ります Memerlukan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "いります",
+      "examples": [
+        {
+          "id": "l20-v1-e1",
+          "japanese": "いります。",
+          "romaji": "irimasu.",
+          "indonesian": "(が) 要ります Memerlukan"
+        }
+      ]
+    },
+    {
+      "id": "l20-v2",
+      "lessonId": 20,
+      "kana": "しらべます",
+      "kanji": "",
+      "romaji": "shirabemasu",
+      "indonesian": "memeriksa, meneliti, mengecek",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "しらべます",
+      "examples": [
+        {
+          "id": "l20-v2-e1",
+          "japanese": "しらべます。",
+          "romaji": "shirabemasu.",
+          "indonesian": "memeriksa, meneliti, mengecek"
+        }
+      ]
+    },
+    {
+      "id": "l20-v3",
+      "lessonId": 20,
+      "kana": "しゅうりします",
+      "kanji": "",
+      "romaji": "shuurishimasu",
+      "indonesian": "memperbaiki",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "しゅうりします",
+      "examples": [
+        {
+          "id": "l20-v3-e1",
+          "japanese": "しゅうりします。",
+          "romaji": "shuurishimasu.",
+          "indonesian": "memperbaiki"
+        }
+      ]
+    },
+    {
+      "id": "l20-v4",
+      "lessonId": 20,
+      "kana": "ぼく",
+      "kanji": "",
+      "romaji": "boku",
+      "indonesian": "aku",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "ぼく",
+      "examples": [
+        {
+          "id": "l20-v4-e1",
+          "japanese": "ぼく。",
+          "romaji": "boku.",
+          "indonesian": "aku"
+        }
+      ]
+    },
+    {
+      "id": "l20-v5",
+      "lessonId": 20,
+      "kana": "きみ",
+      "kanji": "",
+      "romaji": "kimi",
+      "indonesian": "kamu",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "きみ",
+      "examples": [
+        {
+          "id": "l20-v5-e1",
+          "japanese": "きみ。",
+          "romaji": "kimi.",
+          "indonesian": "kamu"
+        }
+      ]
+    },
+    {
+      "id": "l20-v6",
+      "lessonId": 20,
+      "kana": "~くん",
+      "kanji": "",
+      "romaji": "kun",
+      "indonesian": "saudara~",
+      "partOfSpeech": "suffix",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "くん",
+      "examples": [
+        {
+          "id": "l20-v6-e1",
+          "japanese": "くん。",
+          "romaji": "kun.",
+          "indonesian": "saudara~"
+        }
+      ]
+    },
+    {
+      "id": "l20-v7",
+      "lessonId": 20,
+      "kana": "うん",
+      "kanji": "",
+      "romaji": "un",
+      "indonesian": "ya",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "うん",
+      "examples": [
+        {
+          "id": "l20-v7-e1",
+          "japanese": "うん。",
+          "romaji": "un.",
+          "indonesian": "ya"
+        }
+      ]
+    },
+    {
+      "id": "l20-v8",
+      "lessonId": 20,
+      "kana": "ううん",
+      "kanji": "",
+      "romaji": "uun",
+      "indonesian": "tidak",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "ううん",
+      "examples": [
+        {
+          "id": "l20-v8-e1",
+          "japanese": "ううん。",
+          "romaji": "uun.",
+          "indonesian": "tidak"
+        }
+      ]
+    },
+    {
+      "id": "l20-v9",
+      "lessonId": 20,
+      "kana": "ことば",
+      "kanji": "",
+      "romaji": "kotoba",
+      "indonesian": "kata, kosakata, bahasa",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "ことば",
+      "examples": [
+        {
+          "id": "l20-v9-e1",
+          "japanese": "ことば。",
+          "romaji": "kotoba.",
+          "indonesian": "kata, kosakata, bahasa"
+        }
+      ]
+    },
+    {
+      "id": "l20-v10",
+      "lessonId": 20,
+      "kana": "きもの",
+      "kanji": "",
+      "romaji": "kimono",
+      "indonesian": "kimono",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "きもの",
+      "examples": [
+        {
+          "id": "l20-v10-e1",
+          "japanese": "きもの。",
+          "romaji": "kimono.",
+          "indonesian": "kimono"
+        }
+      ]
+    },
+    {
+      "id": "l20-v11",
+      "lessonId": 20,
+      "kana": "ビザ",
+      "kanji": "",
+      "romaji": "biza",
+      "indonesian": "visa",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "ビザ",
+      "examples": [
+        {
+          "id": "l20-v11-e1",
+          "japanese": "ビザ。",
+          "romaji": "biza.",
+          "indonesian": "visa"
+        }
+      ]
+    },
+    {
+      "id": "l20-v12",
+      "lessonId": 20,
+      "kana": "はじめ",
+      "kanji": "",
+      "romaji": "hajime",
+      "indonesian": "awal, mula-mula",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "はじめ",
+      "examples": [
+        {
+          "id": "l20-v12-e1",
+          "japanese": "はじめ。",
+          "romaji": "hajime.",
+          "indonesian": "awal, mula-mula"
+        }
+      ]
+    },
+    {
+      "id": "l20-v13",
+      "lessonId": 20,
+      "kana": "おわり",
+      "kanji": "",
+      "romaji": "owari",
+      "indonesian": "akhir",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "おわり",
+      "examples": [
+        {
+          "id": "l20-v13-e1",
+          "japanese": "おわり。",
+          "romaji": "owari.",
+          "indonesian": "akhir"
+        }
+      ]
+    },
+    {
+      "id": "l20-v14",
+      "lessonId": 20,
+      "kana": "こっち",
+      "kanji": "",
+      "romaji": "kocchi",
+      "indonesian": "sini",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "こっち",
+      "examples": [
+        {
+          "id": "l20-v14-e1",
+          "japanese": "こっち。",
+          "romaji": "kocchi.",
+          "indonesian": "sini"
+        }
+      ]
+    },
+    {
+      "id": "l20-v15",
+      "lessonId": 20,
+      "kana": "そっち",
+      "kanji": "",
+      "romaji": "socchi",
+      "indonesian": "situ",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "そっち",
+      "examples": [
+        {
+          "id": "l20-v15-e1",
+          "japanese": "そっち。",
+          "romaji": "socchi.",
+          "indonesian": "situ"
+        }
+      ]
+    },
+    {
+      "id": "l20-v16",
+      "lessonId": 20,
+      "kana": "あっち",
+      "kanji": "",
+      "romaji": "acchi",
+      "indonesian": "sana",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "あっち",
+      "examples": [
+        {
+          "id": "l20-v16-e1",
+          "japanese": "あっち。",
+          "romaji": "acchi.",
+          "indonesian": "sana"
+        }
+      ]
+    },
+    {
+      "id": "l20-v17",
+      "lessonId": 20,
+      "kana": "どっち",
+      "kanji": "",
+      "romaji": "docchi",
+      "indonesian": "mana",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "どっち",
+      "examples": [
+        {
+          "id": "l20-v17-e1",
+          "japanese": "どっち。",
+          "romaji": "docchi.",
+          "indonesian": "mana"
+        }
+      ]
+    },
+    {
+      "id": "l20-v18",
+      "lessonId": 20,
+      "kana": "みんなで",
+      "kanji": "",
+      "romaji": "minnade",
+      "indonesian": "kita semua",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "みんなで",
+      "examples": [
+        {
+          "id": "l20-v18-e1",
+          "japanese": "みんなで。",
+          "romaji": "minnade.",
+          "indonesian": "kita semua"
+        }
+      ]
+    },
+    {
+      "id": "l20-v19",
+      "lessonId": 20,
+      "kana": "~けど",
+      "kanji": "",
+      "romaji": "kedo",
+      "indonesian": "tetapi",
+      "partOfSpeech": "suffix",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "けど",
+      "examples": [
+        {
+          "id": "l20-v19-e1",
+          "japanese": "けど。",
+          "romaji": "kedo.",
+          "indonesian": "tetapi"
+        }
+      ]
+    },
+    {
+      "id": "l20-v20",
+      "lessonId": 20,
+      "kana": "おなかがいっぱいです",
+      "kanji": "",
+      "romaji": "onakagaippaidesu",
+      "indonesian": "kenyang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "おなかがいっぱいです",
+      "examples": [
+        {
+          "id": "l20-v20-e1",
+          "japanese": "おなかがいっぱいです。",
+          "romaji": "onakagaippaidesu.",
+          "indonesian": "kenyang"
+        }
+      ]
+    },
+    {
+      "id": "l20-v21",
+      "lessonId": 20,
+      "kana": "よかったら",
+      "kanji": "",
+      "romaji": "yokattara",
+      "indonesian": "kalau mau, kalau suka",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "よかったら",
+      "examples": [
+        {
+          "id": "l20-v21-e1",
+          "japanese": "よかったら。",
+          "romaji": "yokattara.",
+          "indonesian": "kalau mau, kalau suka"
+        }
+      ]
+    },
+    {
+      "id": "l20-v22",
+      "lessonId": 20,
+      "kana": "いろいろ",
+      "kanji": "",
+      "romaji": "iroiro",
+      "indonesian": "macam-macam",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-20"
+      ],
+      "audioText": "いろいろ",
+      "examples": [
+        {
+          "id": "l20-v22-e1",
+          "japanese": "いろいろ。",
+          "romaji": "iroiro.",
+          "indonesian": "macam-macam"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l20-g1",
+      "lessonId": 20,
+      "title": "Bentuk sopan dan bentuk biasa",
+      "pattern": "Bentuk sopan dan bentuk biasa",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 20 ini berfokus pada pola “Bentuk sopan dan bentuk biasa”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l20-g1-s1",
+          "label": "Struktur dasar",
+          "pattern": "Bentuk sopan dan bentuk biasa",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l20-g1-e1",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l20-g1-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l20-m-67134",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Bentuk sopan dan bentuk biasa",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Bentuk sopan dan bentuk biasa.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l20-g2",
+      "lessonId": 20,
+      "title": "Percakapan dalam bentuk biasa",
+      "pattern": "Percakapan dalam bentuk biasa",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 20 ini berfokus pada pola “Percakapan dalam bentuk biasa”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l20-g2-s1",
+          "label": "Struktur dasar",
+          "pattern": "Percakapan dalam bentuk biasa",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l20-g2-e1",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l20-g2-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l20-m-81555",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Percakapan dalam bentuk biasa",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Percakapan dalam bentuk biasa.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l20-g3",
+      "lessonId": 20,
+      "title": "Kalimat tanya dalam bentuk biasa",
+      "pattern": "Kalimat tanya dalam bentuk biasa",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 20 ini berfokus pada pola “Kalimat tanya dalam bentuk biasa”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l20-g3-s1",
+          "label": "Struktur dasar",
+          "pattern": "Kalimat tanya dalam bentuk biasa",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l20-g3-e1",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l20-g3-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l20-m-77739",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Kalimat tanya dalam bentuk biasa",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Kalimat tanya dalam bentuk biasa.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l20-g4",
+      "lessonId": 20,
+      "title": "Partikel yang sering dihilangkan dalam percakapan kasual",
+      "pattern": "Partikel yang sering dihilangkan dalam percakapan kasual",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 20 ini berfokus pada pola “Partikel yang sering dihilangkan dalam percakapan kasual”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l20-g4-s1",
+          "label": "Struktur dasar",
+          "pattern": "Partikel yang sering dihilangkan dalam percakapan kasual",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l20-g4-e1",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l20-g4-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l20-m-65978",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Partikel yang sering dihilangkan dalam percakapan kasual",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Partikel yang sering dihilangkan dalam percakapan kasual.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "l20-c1",
+      "lessonId": 20,
+      "title": "Bagaimana kalau pergi bersama-sama?",
+      "context": "Percakapan pendek untuk melatih materi Bab 20.",
+      "lines": [
+        {
+          "id": "l20-c1-l1",
+          "speaker": "Rido",
+          "japanese": "すみません。ちょっと いいですか。",
+          "romaji": "Sumimasen. Chotto ii desu ka.",
+          "indonesian": "Permisi. Boleh sebentar?"
+        },
+        {
+          "id": "l20-c1-l2",
+          "speaker": "Sato",
+          "japanese": "はい、いいですよ。",
+          "romaji": "Hai, ii desu yo.",
+          "indonesian": "Ya, boleh."
+        },
+        {
+          "id": "l20-c1-l3",
+          "speaker": "Rido",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l20-c1-l4",
+          "speaker": "Sato",
+          "japanese": "いいですね。もういちど れんしゅうしましょう。",
+          "romaji": "Ii desu ne. Mou ichido renshuu shimashou.",
+          "indonesian": "Bagus. Mari latihan sekali lagi."
+        }
+      ],
+      "roleplayPrompts": [
+        "Latihan percakapan dengan tema: Bagaimana kalau pergi bersama-sama?.",
+        "User menjawab dalam bahasa Jepang sederhana.",
+        "Harmoko Sensei memberi koreksi singkat."
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "id": "l20-cn1",
+      "lessonId": 20,
+      "title": "Cara memanggil orang",
+      "body": "Topik referensi Bab 20: Cara memanggil orang. Bagian ini membantu memahami konteks pemakaian bahasa Jepang dalam kehidupan sehari-hari, budaya, tempat, kebiasaan, atau ungkapan yang sering muncul.",
+      "tips": [
+        "Baca kosakata yang berhubungan dengan topik ini.",
+        "Coba buat 3 kalimat pendek memakai kosakata bab ini.",
+        "Gunakan flashcard untuk mengulang kata yang sulit.",
+        "Minta Harmoko Sensei membuat roleplay sesuai topik ini."
+      ]
+    },
+    {
+      "id": "l20-cn2",
+      "lessonId": 20,
+      "title": "Cara belajar efektif",
+      "body": "Pelajari pola kalimat, lihat contoh, lalu langsung praktik percakapan. Jangan hanya menghafal arti; gunakan kosakata dalam kalimat pendek.",
+      "tips": [
+        "Pahami pola sebelum menghafal banyak contoh.",
+        "Latihan suara dengan tombol speaker.",
+        "Tandai pelajaran selesai setelah membaca semua tab."
+      ]
+    }
+  ],
+  "aiSuggestedPrompts": [
+    "Jelaskan tata bahasa Bab 20 dengan sederhana.",
+    "Buat 10 soal dari grammar Bab 20.",
+    "Buat roleplay tentang Bagaimana kalau pergi bersama-sama?.",
+    "Buat contoh kalimat dari kosakata Bab 20.",
+    "Koreksi kalimat Jepang saya."
+  ]
+}

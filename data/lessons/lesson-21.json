@@ -1,0 +1,1586 @@
+{
+  "id": 21,
+  "slug": "pelajaran-21",
+  "title": "Pelajaran 21",
+  "subtitle": "Pendapat dan Kutipan",
+  "theme": "Menyampaikan pikiran dan ucapan",
+  "level": "beginner",
+  "estimatedMinutes": 45,
+  "canDo": [
+    "Memahami tata bahasa utama Bab 21",
+    "Menggunakan pola: Bentuk biasa と おもいます",
+    "Membaca dan memahami topik info: Nama-nama jabatan",
+    "Membuat contoh kalimat sendiri",
+    "Melatih materi dengan flashcard dan Harmoko Sensei"
+  ],
+  "vocabulary": [
+    {
+      "id": "l21-v1",
+      "lessonId": 21,
+      "kana": "おもいます",
+      "kanji": "",
+      "romaji": "omoimasu",
+      "indonesian": "mengira, berfikir",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "おもいます",
+      "examples": [
+        {
+          "id": "l21-v1-e1",
+          "japanese": "おもいます。",
+          "romaji": "omoimasu.",
+          "indonesian": "mengira, berfikir"
+        }
+      ]
+    },
+    {
+      "id": "l21-v2",
+      "lessonId": 21,
+      "kana": "いいます",
+      "kanji": "",
+      "romaji": "iimasu",
+      "indonesian": "berkata, mengatakan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "いいます",
+      "examples": [
+        {
+          "id": "l21-v2-e1",
+          "japanese": "いいます。",
+          "romaji": "iimasu.",
+          "indonesian": "berkata, mengatakan"
+        }
+      ]
+    },
+    {
+      "id": "l21-v3",
+      "lessonId": 21,
+      "kana": "かちます",
+      "kanji": "",
+      "romaji": "kachimasu",
+      "indonesian": "menang",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "かちます",
+      "examples": [
+        {
+          "id": "l21-v3-e1",
+          "japanese": "かちます。",
+          "romaji": "kachimasu.",
+          "indonesian": "menang"
+        }
+      ]
+    },
+    {
+      "id": "l21-v4",
+      "lessonId": 21,
+      "kana": "まけます",
+      "kanji": "",
+      "romaji": "makemasu",
+      "indonesian": "kalah",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "まけます",
+      "examples": [
+        {
+          "id": "l21-v4-e1",
+          "japanese": "まけます。",
+          "romaji": "makemasu.",
+          "indonesian": "kalah"
+        }
+      ]
+    },
+    {
+      "id": "l21-v5",
+      "lessonId": 21,
+      "kana": "やくにたちます",
+      "kanji": "",
+      "romaji": "yakunitachimasu",
+      "indonesian": "bermanfaat, berguna",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "やくにたちます",
+      "examples": [
+        {
+          "id": "l21-v5-e1",
+          "japanese": "やくにたちます。",
+          "romaji": "yakunitachimasu.",
+          "indonesian": "bermanfaat, berguna"
+        }
+      ]
+    },
+    {
+      "id": "l21-v6",
+      "lessonId": 21,
+      "kana": "うごきます",
+      "kanji": "",
+      "romaji": "ugokimasu",
+      "indonesian": "pindah, bergerak",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "うごきます",
+      "examples": [
+        {
+          "id": "l21-v6-e1",
+          "japanese": "うごきます。",
+          "romaji": "ugokimasu.",
+          "indonesian": "pindah, bergerak"
+        }
+      ]
+    },
+    {
+      "id": "l21-v7",
+      "lessonId": 21,
+      "kana": "やめます",
+      "kanji": "",
+      "romaji": "yamemasu",
+      "indonesian": "berhenti",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "やめます",
+      "examples": [
+        {
+          "id": "l21-v7-e1",
+          "japanese": "やめます。",
+          "romaji": "yamemasu.",
+          "indonesian": "berhenti"
+        }
+      ]
+    },
+    {
+      "id": "l21-v8",
+      "lessonId": 21,
+      "kana": "きをつけます",
+      "kanji": "",
+      "romaji": "kiwotsukemasu",
+      "indonesian": "berhati-hati, berwaspada",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "きをつけます",
+      "examples": [
+        {
+          "id": "l21-v8-e1",
+          "japanese": "きをつけます。",
+          "romaji": "kiwotsukemasu.",
+          "indonesian": "berhati-hati, berwaspada"
+        }
+      ]
+    },
+    {
+      "id": "l21-v9",
+      "lessonId": 21,
+      "kana": "りゅうがくします",
+      "kanji": "",
+      "romaji": "ryuugakushimasu",
+      "indonesian": "studi di luar negeri",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "りゅうがくします",
+      "examples": [
+        {
+          "id": "l21-v9-e1",
+          "japanese": "りゅうがくします。",
+          "romaji": "ryuugakushimasu.",
+          "indonesian": "studi di luar negeri"
+        }
+      ]
+    },
+    {
+      "id": "l21-v10",
+      "lessonId": 21,
+      "kana": "むだな",
+      "kanji": "",
+      "romaji": "mudana",
+      "indonesian": "sia-sia, tidak berguna",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "むだな",
+      "examples": [
+        {
+          "id": "l21-v10-e1",
+          "japanese": "むだな。",
+          "romaji": "mudana.",
+          "indonesian": "sia-sia, tidak berguna"
+        }
+      ]
+    },
+    {
+      "id": "l21-v11",
+      "lessonId": 21,
+      "kana": "ふべんな",
+      "kanji": "",
+      "romaji": "fubenna",
+      "indonesian": "tidak praktis",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ふべんな",
+      "examples": [
+        {
+          "id": "l21-v11-e1",
+          "japanese": "ふべんな。",
+          "romaji": "fubenna.",
+          "indonesian": "tidak praktis"
+        }
+      ]
+    },
+    {
+      "id": "l21-v12",
+      "lessonId": 21,
+      "kana": "すごい",
+      "kanji": "",
+      "romaji": "sugoi",
+      "indonesian": "hebat",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "すごい",
+      "examples": [
+        {
+          "id": "l21-v12-e1",
+          "japanese": "すごい。",
+          "romaji": "sugoi.",
+          "indonesian": "hebat"
+        }
+      ]
+    },
+    {
+      "id": "l21-v13",
+      "lessonId": 21,
+      "kana": "ほんとう",
+      "kanji": "",
+      "romaji": "hontou",
+      "indonesian": "betul, benar",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ほんとう",
+      "examples": [
+        {
+          "id": "l21-v13-e1",
+          "japanese": "ほんとう。",
+          "romaji": "hontou.",
+          "indonesian": "betul, benar"
+        }
+      ]
+    },
+    {
+      "id": "l21-v14",
+      "lessonId": 21,
+      "kana": "うそ",
+      "kanji": "",
+      "romaji": "uso",
+      "indonesian": "bohong",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "うそ",
+      "examples": [
+        {
+          "id": "l21-v14-e1",
+          "japanese": "うそ。",
+          "romaji": "uso.",
+          "indonesian": "bohong"
+        }
+      ]
+    },
+    {
+      "id": "l21-v15",
+      "lessonId": 21,
+      "kana": "じどうしゃ",
+      "kanji": "",
+      "romaji": "jidousha",
+      "indonesian": "mobil",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "じどうしゃ",
+      "examples": [
+        {
+          "id": "l21-v15-e1",
+          "japanese": "じどうしゃ。",
+          "romaji": "jidousha.",
+          "indonesian": "mobil"
+        }
+      ]
+    },
+    {
+      "id": "l21-v16",
+      "lessonId": 21,
+      "kana": "こうつう",
+      "kanji": "",
+      "romaji": "koutsuu",
+      "indonesian": "lalu lintas",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "こうつう",
+      "examples": [
+        {
+          "id": "l21-v16-e1",
+          "japanese": "こうつう。",
+          "romaji": "koutsuu.",
+          "indonesian": "lalu lintas"
+        }
+      ]
+    },
+    {
+      "id": "l21-v17",
+      "lessonId": 21,
+      "kana": "ぶっか",
+      "kanji": "",
+      "romaji": "bukka",
+      "indonesian": "harga barang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ぶっか",
+      "examples": [
+        {
+          "id": "l21-v17-e1",
+          "japanese": "ぶっか。",
+          "romaji": "bukka.",
+          "indonesian": "harga barang"
+        }
+      ]
+    },
+    {
+      "id": "l21-v18",
+      "lessonId": 21,
+      "kana": "ニュース",
+      "kanji": "",
+      "romaji": "nyuusu",
+      "indonesian": "siaran, pengumuman",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ニュース",
+      "examples": [
+        {
+          "id": "l21-v18-e1",
+          "japanese": "ニュース。",
+          "romaji": "nyuusu.",
+          "indonesian": "siaran, pengumuman"
+        }
+      ]
+    },
+    {
+      "id": "l21-v19",
+      "lessonId": 21,
+      "kana": "アニメ",
+      "kanji": "",
+      "romaji": "anime",
+      "indonesian": "animasi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "アニメ",
+      "examples": [
+        {
+          "id": "l21-v19-e1",
+          "japanese": "アニメ。",
+          "romaji": "anime.",
+          "indonesian": "animasi"
+        }
+      ]
+    },
+    {
+      "id": "l21-v20",
+      "lessonId": 21,
+      "kana": "マンガ",
+      "kanji": "",
+      "romaji": "manga",
+      "indonesian": "komik",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "マンガ",
+      "examples": [
+        {
+          "id": "l21-v20-e1",
+          "japanese": "マンガ。",
+          "romaji": "manga.",
+          "indonesian": "komik"
+        }
+      ]
+    },
+    {
+      "id": "l21-v21",
+      "lessonId": 21,
+      "kana": "デザイン",
+      "kanji": "",
+      "romaji": "dezain",
+      "indonesian": "desain, model",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "デザイン",
+      "examples": [
+        {
+          "id": "l21-v21-e1",
+          "japanese": "デザイン。",
+          "romaji": "dezain.",
+          "indonesian": "desain, model"
+        }
+      ]
+    },
+    {
+      "id": "l21-v22",
+      "lessonId": 21,
+      "kana": "ゆめ",
+      "kanji": "",
+      "romaji": "yume",
+      "indonesian": "mimpi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ゆめ",
+      "examples": [
+        {
+          "id": "l21-v22-e1",
+          "japanese": "ゆめ。",
+          "romaji": "yume.",
+          "indonesian": "mimpi"
+        }
+      ]
+    },
+    {
+      "id": "l21-v23",
+      "lessonId": 21,
+      "kana": "てんさい",
+      "kanji": "",
+      "romaji": "tensai",
+      "indonesian": "genius",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "てんさい",
+      "examples": [
+        {
+          "id": "l21-v23-e1",
+          "japanese": "てんさい。",
+          "romaji": "tensai.",
+          "indonesian": "genius"
+        }
+      ]
+    },
+    {
+      "id": "l21-v24",
+      "lessonId": 21,
+      "kana": "しあい",
+      "kanji": "",
+      "romaji": "shiai",
+      "indonesian": "pertandingan",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "しあい",
+      "examples": [
+        {
+          "id": "l21-v24-e1",
+          "japanese": "しあい。",
+          "romaji": "shiai.",
+          "indonesian": "pertandingan"
+        }
+      ]
+    },
+    {
+      "id": "l21-v25",
+      "lessonId": 21,
+      "kana": "いけん",
+      "kanji": "",
+      "romaji": "iken",
+      "indonesian": "pendapat",
+      "partOfSpeech": "question-word",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "いけん",
+      "examples": [
+        {
+          "id": "l21-v25-e1",
+          "japanese": "いけん。",
+          "romaji": "iken.",
+          "indonesian": "pendapat"
+        }
+      ]
+    },
+    {
+      "id": "l21-v26",
+      "lessonId": 21,
+      "kana": "はなし",
+      "kanji": "",
+      "romaji": "hanashi",
+      "indonesian": "cerita",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "はなし",
+      "examples": [
+        {
+          "id": "l21-v26-e1",
+          "japanese": "はなし。",
+          "romaji": "hanashi.",
+          "indonesian": "cerita"
+        }
+      ]
+    },
+    {
+      "id": "l21-v27",
+      "lessonId": 21,
+      "kana": "ちきゅう",
+      "kanji": "",
+      "romaji": "chikyuu",
+      "indonesian": "bumi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ちきゅう",
+      "examples": [
+        {
+          "id": "l21-v27-e1",
+          "japanese": "ちきゅう。",
+          "romaji": "chikyuu.",
+          "indonesian": "bumi"
+        }
+      ]
+    },
+    {
+      "id": "l21-v28",
+      "lessonId": 21,
+      "kana": "つき",
+      "kanji": "",
+      "romaji": "tsuki",
+      "indonesian": "bulan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "つき",
+      "examples": [
+        {
+          "id": "l21-v28-e1",
+          "japanese": "つき。",
+          "romaji": "tsuki.",
+          "indonesian": "bulan"
+        }
+      ]
+    },
+    {
+      "id": "l21-v29",
+      "lessonId": 21,
+      "kana": "さいきん",
+      "kanji": "",
+      "romaji": "saikin",
+      "indonesian": "akhir-akhir ini",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "さいきん",
+      "examples": [
+        {
+          "id": "l21-v29-e1",
+          "japanese": "さいきん。",
+          "romaji": "saikin.",
+          "indonesian": "akhir-akhir ini"
+        }
+      ]
+    },
+    {
+      "id": "l21-v30",
+      "lessonId": 21,
+      "kana": "たぶん",
+      "kanji": "",
+      "romaji": "tabun",
+      "indonesian": "mungkin, barangkali",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "たぶん",
+      "examples": [
+        {
+          "id": "l21-v30-e1",
+          "japanese": "たぶん。",
+          "romaji": "tabun.",
+          "indonesian": "mungkin, barangkali"
+        }
+      ]
+    },
+    {
+      "id": "l21-v31",
+      "lessonId": 21,
+      "kana": "きっと",
+      "kanji": "",
+      "romaji": "kitto",
+      "indonesian": "pasti",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "きっと",
+      "examples": [
+        {
+          "id": "l21-v31-e1",
+          "japanese": "きっと。",
+          "romaji": "kitto.",
+          "indonesian": "pasti"
+        }
+      ]
+    },
+    {
+      "id": "l21-v32",
+      "lessonId": 21,
+      "kana": "ほんとうに",
+      "kanji": "",
+      "romaji": "hontouni",
+      "indonesian": "betul-betul",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ほんとうに",
+      "examples": [
+        {
+          "id": "l21-v32-e1",
+          "japanese": "ほんとうに。",
+          "romaji": "hontouni.",
+          "indonesian": "betul-betul"
+        }
+      ]
+    },
+    {
+      "id": "l21-v33",
+      "lessonId": 21,
+      "kana": "そんなに",
+      "kanji": "",
+      "romaji": "sonnani",
+      "indonesian": "tidak begitu (diikuti kata negatif)",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "そんなに",
+      "examples": [
+        {
+          "id": "l21-v33-e1",
+          "japanese": "そんなに。",
+          "romaji": "sonnani.",
+          "indonesian": "tidak begitu (diikuti kata negatif)"
+        }
+      ]
+    },
+    {
+      "id": "l21-v34",
+      "lessonId": 21,
+      "kana": "~について",
+      "kanji": "",
+      "romaji": "nitsuite",
+      "indonesian": "tentang ~",
+      "partOfSpeech": "suffix",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "について",
+      "examples": [
+        {
+          "id": "l21-v34-e1",
+          "japanese": "について。",
+          "romaji": "nitsuite.",
+          "indonesian": "tentang ~"
+        }
+      ]
+    },
+    {
+      "id": "l21-v35",
+      "lessonId": 21,
+      "kana": "ひさしぶりですね",
+      "kanji": "",
+      "romaji": "hisashiburidesune",
+      "indonesian": "sudah lama tidak bertemu ya",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ひさしぶりですね",
+      "examples": [
+        {
+          "id": "l21-v35-e1",
+          "japanese": "ひさしぶりですね。",
+          "romaji": "hisashiburidesune.",
+          "indonesian": "sudah lama tidak bertemu ya"
+        }
+      ]
+    },
+    {
+      "id": "l21-v36",
+      "lessonId": 21,
+      "kana": "もちろん",
+      "kanji": "",
+      "romaji": "mochiron",
+      "indonesian": "tentu saja",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "もちろん",
+      "examples": [
+        {
+          "id": "l21-v36-e1",
+          "japanese": "もちろん。",
+          "romaji": "mochiron.",
+          "indonesian": "tentu saja"
+        }
+      ]
+    },
+    {
+      "id": "l21-v37",
+      "lessonId": 21,
+      "kana": "やくしょくめい",
+      "kanji": "",
+      "romaji": "yakushokumei",
+      "indonesian": "nama-nama jabatan",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "やくしょくめい",
+      "examples": [
+        {
+          "id": "l21-v37-e1",
+          "japanese": "やくしょくめい。",
+          "romaji": "yakushokumei.",
+          "indonesian": "nama-nama jabatan"
+        }
+      ]
+    },
+    {
+      "id": "l21-v38",
+      "lessonId": 21,
+      "kana": "とどうふけん",
+      "kanji": "",
+      "romaji": "todoufuken",
+      "indonesian": "prefektur",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "とどうふけん",
+      "examples": [
+        {
+          "id": "l21-v38-e1",
+          "japanese": "とどうふけん。",
+          "romaji": "todoufuken.",
+          "indonesian": "prefektur"
+        }
+      ]
+    },
+    {
+      "id": "l21-v39",
+      "lessonId": 21,
+      "kana": "し",
+      "kanji": "",
+      "romaji": "shi",
+      "indonesian": "kota",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "し",
+      "examples": [
+        {
+          "id": "l21-v39-e1",
+          "japanese": "し。",
+          "romaji": "shi.",
+          "indonesian": "kota"
+        }
+      ]
+    },
+    {
+      "id": "l21-v40",
+      "lessonId": 21,
+      "kana": "まち",
+      "kanji": "",
+      "romaji": "machi",
+      "indonesian": "distrik, daerah",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "まち",
+      "examples": [
+        {
+          "id": "l21-v40-e1",
+          "japanese": "まち。",
+          "romaji": "machi.",
+          "indonesian": "distrik, daerah"
+        }
+      ]
+    },
+    {
+      "id": "l21-v41",
+      "lessonId": 21,
+      "kana": "むら",
+      "kanji": "",
+      "romaji": "mura",
+      "indonesian": "desa",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "むら",
+      "examples": [
+        {
+          "id": "l21-v41-e1",
+          "japanese": "むら。",
+          "romaji": "mura.",
+          "indonesian": "desa"
+        }
+      ]
+    },
+    {
+      "id": "l21-v42",
+      "lessonId": 21,
+      "kana": "しゅしょう",
+      "kanji": "",
+      "romaji": "shushou",
+      "indonesian": "perdana menteri",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "しゅしょう",
+      "examples": [
+        {
+          "id": "l21-v42-e1",
+          "japanese": "しゅしょう。",
+          "romaji": "shushou.",
+          "indonesian": "perdana menteri"
+        }
+      ]
+    },
+    {
+      "id": "l21-v43",
+      "lessonId": 21,
+      "kana": "ちじ",
+      "kanji": "",
+      "romaji": "chiji",
+      "indonesian": "gubernur",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ちじ",
+      "examples": [
+        {
+          "id": "l21-v43-e1",
+          "japanese": "ちじ。",
+          "romaji": "chiji.",
+          "indonesian": "gubernur"
+        }
+      ]
+    },
+    {
+      "id": "l21-v44",
+      "lessonId": 21,
+      "kana": "しちょう",
+      "kanji": "",
+      "romaji": "shichou",
+      "indonesian": "wali kota",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "しちょう",
+      "examples": [
+        {
+          "id": "l21-v44-e1",
+          "japanese": "しちょう。",
+          "romaji": "shichou.",
+          "indonesian": "wali kota"
+        }
+      ]
+    },
+    {
+      "id": "l21-v45",
+      "lessonId": 21,
+      "kana": "ちょうちょう",
+      "kanji": "",
+      "romaji": "chouchou",
+      "indonesian": "kepala daerah",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "ちょうちょう",
+      "examples": [
+        {
+          "id": "l21-v45-e1",
+          "japanese": "ちょうちょう。",
+          "romaji": "chouchou.",
+          "indonesian": "kepala daerah"
+        }
+      ]
+    },
+    {
+      "id": "l21-v46",
+      "lessonId": 21,
+      "kana": "そんちょう",
+      "kanji": "",
+      "romaji": "sonchou",
+      "indonesian": "kepala desa",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "そんちょう",
+      "examples": [
+        {
+          "id": "l21-v46-e1",
+          "japanese": "そんちょう。",
+          "romaji": "sonchou.",
+          "indonesian": "kepala desa"
+        }
+      ]
+    },
+    {
+      "id": "l21-v47",
+      "lessonId": 21,
+      "kana": "がくちょう",
+      "kanji": "",
+      "romaji": "gakuchou",
+      "indonesian": "rektor",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "がくちょう",
+      "examples": [
+        {
+          "id": "l21-v47-e1",
+          "japanese": "がくちょう。",
+          "romaji": "gakuchou.",
+          "indonesian": "rektor"
+        }
+      ]
+    },
+    {
+      "id": "l21-v48",
+      "lessonId": 21,
+      "kana": "こうちょう",
+      "kanji": "",
+      "romaji": "kouchou",
+      "indonesian": "kepala sekolah",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "こうちょう",
+      "examples": [
+        {
+          "id": "l21-v48-e1",
+          "japanese": "こうちょう。",
+          "romaji": "kouchou.",
+          "indonesian": "kepala sekolah"
+        }
+      ]
+    },
+    {
+      "id": "l21-v49",
+      "lessonId": 21,
+      "kana": "えんちょう",
+      "kanji": "",
+      "romaji": "enchou",
+      "indonesian": "kepala TK",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "えんちょう",
+      "examples": [
+        {
+          "id": "l21-v49-e1",
+          "japanese": "えんちょう。",
+          "romaji": "enchou.",
+          "indonesian": "kepala TK"
+        }
+      ]
+    },
+    {
+      "id": "l21-v50",
+      "lessonId": 21,
+      "kana": "かいちょう",
+      "kanji": "",
+      "romaji": "kaichou",
+      "indonesian": "ketua",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "かいちょう",
+      "examples": [
+        {
+          "id": "l21-v50-e1",
+          "japanese": "かいちょう。",
+          "romaji": "kaichou.",
+          "indonesian": "ketua"
+        }
+      ]
+    },
+    {
+      "id": "l21-v51",
+      "lessonId": 21,
+      "kana": "じゅうやく",
+      "kanji": "",
+      "romaji": "juuyaku",
+      "indonesian": "direktur",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "じゅうやく",
+      "examples": [
+        {
+          "id": "l21-v51-e1",
+          "japanese": "じゅうやく。",
+          "romaji": "juuyaku.",
+          "indonesian": "direktur"
+        }
+      ]
+    },
+    {
+      "id": "l21-v52",
+      "lessonId": 21,
+      "kana": "とうどり",
+      "kanji": "",
+      "romaji": "toudori",
+      "indonesian": "direktur bank",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "とうどり",
+      "examples": [
+        {
+          "id": "l21-v52-e1",
+          "japanese": "とうどり。",
+          "romaji": "toudori.",
+          "indonesian": "direktur bank"
+        }
+      ]
+    },
+    {
+      "id": "l21-v53",
+      "lessonId": 21,
+      "kana": "してんちょう",
+      "kanji": "",
+      "romaji": "shitenchou",
+      "indonesian": "kepala kantor cabang",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "してんちょう",
+      "examples": [
+        {
+          "id": "l21-v53-e1",
+          "japanese": "してんちょう。",
+          "romaji": "shitenchou.",
+          "indonesian": "kepala kantor cabang"
+        }
+      ]
+    },
+    {
+      "id": "l21-v54",
+      "lessonId": 21,
+      "kana": "えきちょう",
+      "kanji": "",
+      "romaji": "ekichou",
+      "indonesian": "kepala stasiun",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "えきちょう",
+      "examples": [
+        {
+          "id": "l21-v54-e1",
+          "japanese": "えきちょう。",
+          "romaji": "ekichou.",
+          "indonesian": "kepala stasiun"
+        }
+      ]
+    },
+    {
+      "id": "l21-v55",
+      "lessonId": 21,
+      "kana": "いんちょう",
+      "kanji": "",
+      "romaji": "inchou",
+      "indonesian": "direktur rumah sakit",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "いんちょう",
+      "examples": [
+        {
+          "id": "l21-v55-e1",
+          "japanese": "いんちょう。",
+          "romaji": "inchou.",
+          "indonesian": "direktur rumah sakit"
+        }
+      ]
+    },
+    {
+      "id": "l21-v56",
+      "lessonId": 21,
+      "kana": "かんごしちょう",
+      "kanji": "",
+      "romaji": "kangoshichou",
+      "indonesian": "kepala perawat",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "かんごしちょう",
+      "examples": [
+        {
+          "id": "l21-v56-e1",
+          "japanese": "かんごしちょう。",
+          "romaji": "kangoshichou.",
+          "indonesian": "kepala perawat"
+        }
+      ]
+    },
+    {
+      "id": "l21-v57",
+      "lessonId": 21,
+      "kana": "けいさつ",
+      "kanji": "",
+      "romaji": "keisatsu",
+      "indonesian": "kantor polisi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "けいさつ",
+      "examples": [
+        {
+          "id": "l21-v57-e1",
+          "japanese": "けいさつ。",
+          "romaji": "keisatsu.",
+          "indonesian": "kantor polisi"
+        }
+      ]
+    },
+    {
+      "id": "l21-v58",
+      "lessonId": 21,
+      "kana": "しょちょう",
+      "kanji": "",
+      "romaji": "shochou",
+      "indonesian": "kepala kantor polisi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-21"
+      ],
+      "audioText": "しょちょう",
+      "examples": [
+        {
+          "id": "l21-v58-e1",
+          "japanese": "しょちょう。",
+          "romaji": "shochou.",
+          "indonesian": "kepala kantor polisi"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l21-g1",
+      "lessonId": 21,
+      "title": "Bentuk biasa と おもいます",
+      "pattern": "Bentuk biasa と おもいます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 21 ini berfokus pada pola “Bentuk biasa と おもいます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l21-g1-s1",
+          "label": "Struktur dasar",
+          "pattern": "Bentuk biasa と おもいます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l21-g1-e1",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l21-g1-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l21-m-82133",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Bentuk biasa と おもいます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Bentuk biasa と おもいます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l21-g2",
+      "lessonId": 21,
+      "title": "Kalimat と いいます",
+      "pattern": "Kalimat と いいます",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 21 ini berfokus pada pola “Kalimat と いいます”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l21-g2-s1",
+          "label": "Struktur dasar",
+          "pattern": "Kalimat と いいます",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l21-g2-e1",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l21-g2-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l21-m-77502",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Kalimat と いいます",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Kalimat と いいます.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l21-g3",
+      "lessonId": 21,
+      "title": "Kalimatでしょう",
+      "pattern": "Kalimatでしょう",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 21 ini berfokus pada pola “Kalimatでしょう”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l21-g3-s1",
+          "label": "Struktur dasar",
+          "pattern": "Kalimatでしょう",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l21-g3-e1",
+          "japanese": "あしたは あめでしょう。",
+          "romaji": "Ashita wa ame deshou.",
+          "indonesian": "Besok mungkin hujan."
+        },
+        {
+          "id": "l21-g3-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l21-m-99832",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Kalimatでしょう",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Kalimatでしょう.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l21-g4",
+      "lessonId": 21,
+      "title": "Nについて",
+      "pattern": "Nについて",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 21 ini berfokus pada pola “Nについて”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l21-g4-s1",
+          "label": "Struktur dasar",
+          "pattern": "Nについて",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l21-g4-e1",
+          "japanese": "にほんごを れんしゅうします。",
+          "romaji": "Nihongo o renshuu shimasu.",
+          "indonesian": "Saya berlatih bahasa Jepang."
+        },
+        {
+          "id": "l21-g4-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l21-m-90474",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Nについて",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Nについて.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l21-g5",
+      "lessonId": 21,
+      "title": "Nで / Nでも",
+      "pattern": "Nで / Nでも",
+      "shortExplanation": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini.",
+      "detailedExplanation": "Materi Bab 21 ini berfokus pada pola “Nで / Nでも”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l21-g5-s1",
+          "label": "Struktur dasar",
+          "pattern": "Nで / Nでも",
+          "meaning": "Pola ini adalah bagian penting dari tata bahasa pada pelajaran ini."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l21-g5-e1",
+          "japanese": "じてんしゃで がっこうへ いきます。",
+          "romaji": "Jitensha de gakkou e ikimasu.",
+          "indonesian": "Saya pergi ke sekolah naik sepeda."
+        },
+        {
+          "id": "l21-g5-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l21-m-92723",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Nで / Nでも",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Nで / Nでも.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "l21-c1",
+      "lessonId": 21,
+      "title": "Saya kira juga begitu",
+      "context": "Percakapan pendek untuk melatih materi Bab 21.",
+      "lines": [
+        {
+          "id": "l21-c1-l1",
+          "speaker": "Rido",
+          "japanese": "すみません。ちょっと いいですか。",
+          "romaji": "Sumimasen. Chotto ii desu ka.",
+          "indonesian": "Permisi. Boleh sebentar?"
+        },
+        {
+          "id": "l21-c1-l2",
+          "speaker": "Sato",
+          "japanese": "はい、いいですよ。",
+          "romaji": "Hai, ii desu yo.",
+          "indonesian": "Ya, boleh."
+        },
+        {
+          "id": "l21-c1-l3",
+          "speaker": "Rido",
+          "japanese": "きょうしつに せんせいが います。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "indonesian": "Ada guru di kelas."
+        },
+        {
+          "id": "l21-c1-l4",
+          "speaker": "Sato",
+          "japanese": "いいですね。もういちど れんしゅうしましょう。",
+          "romaji": "Ii desu ne. Mou ichido renshuu shimashou.",
+          "indonesian": "Bagus. Mari latihan sekali lagi."
+        }
+      ],
+      "roleplayPrompts": [
+        "Latihan percakapan dengan tema: Saya kira juga begitu.",
+        "User menjawab dalam bahasa Jepang sederhana.",
+        "Harmoko Sensei memberi koreksi singkat."
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "id": "l21-cn1",
+      "lessonId": 21,
+      "title": "Nama-nama jabatan",
+      "body": "Topik referensi Bab 21: Nama-nama jabatan. Bagian ini membantu memahami konteks pemakaian bahasa Jepang dalam kehidupan sehari-hari, budaya, tempat, kebiasaan, atau ungkapan yang sering muncul.",
+      "tips": [
+        "Baca kosakata yang berhubungan dengan topik ini.",
+        "Coba buat 3 kalimat pendek memakai kosakata bab ini.",
+        "Gunakan flashcard untuk mengulang kata yang sulit.",
+        "Minta Harmoko Sensei membuat roleplay sesuai topik ini."
+      ]
+    },
+    {
+      "id": "l21-cn2",
+      "lessonId": 21,
+      "title": "Cara belajar efektif",
+      "body": "Pelajari pola kalimat, lihat contoh, lalu langsung praktik percakapan. Jangan hanya menghafal arti; gunakan kosakata dalam kalimat pendek.",
+      "tips": [
+        "Pahami pola sebelum menghafal banyak contoh.",
+        "Latihan suara dengan tombol speaker.",
+        "Tandai pelajaran selesai setelah membaca semua tab."
+      ]
+    }
+  ],
+  "aiSuggestedPrompts": [
+    "Jelaskan tata bahasa Bab 21 dengan sederhana.",
+    "Buat 10 soal dari grammar Bab 21.",
+    "Buat roleplay tentang Saya kira juga begitu.",
+    "Buat contoh kalimat dari kosakata Bab 21.",
+    "Koreksi kalimat Jepang saya."
+  ]
+}

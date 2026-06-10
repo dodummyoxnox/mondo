@@ -1,0 +1,1059 @@
+{
+  "id": 48,
+  "slug": "pelajaran-48",
+  "title": "Pelajaran 48",
+  "subtitle": "Kotoba Bab 48",
+  "theme": "Kosakata Minna no Nihongo Bab 48",
+  "level": "elementary",
+  "estimatedMinutes": 40,
+  "canDo": [
+    "Memahami tata bahasa utama Bab 48",
+    "Menggunakan pola: Kata kerja kausatif",
+    "Membaca dan memahami topik info: Mendidik dan disiplin",
+    "Membuat contoh kalimat sendiri",
+    "Melatih materi dengan flashcard dan Harmoko Sensei"
+  ],
+  "vocabulary": [
+    {
+      "id": "l48-v1",
+      "lessonId": 48,
+      "kana": "おろします",
+      "kanji": "",
+      "romaji": "oroshimasu",
+      "indonesian": "menurunkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "おろします",
+      "examples": [
+        {
+          "id": "l48-v1-e1",
+          "japanese": "おろします。",
+          "romaji": "oroshimasu.",
+          "indonesian": "menurunkan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v2",
+      "lessonId": 48,
+      "kana": "とどけます",
+      "kanji": "",
+      "romaji": "todokemasu",
+      "indonesian": "mengantarkan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "とどけます",
+      "examples": [
+        {
+          "id": "l48-v2-e1",
+          "japanese": "とどけます。",
+          "romaji": "todokemasu.",
+          "indonesian": "mengantarkan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v3",
+      "lessonId": 48,
+      "kana": "いやな",
+      "kanji": "",
+      "romaji": "iyana",
+      "indonesian": "tak suka, tak diingini",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "いやな",
+      "examples": [
+        {
+          "id": "l48-v3-e1",
+          "japanese": "いやな。",
+          "romaji": "iyana.",
+          "indonesian": "tak suka, tak diingini"
+        }
+      ]
+    },
+    {
+      "id": "l48-v4",
+      "lessonId": 48,
+      "kana": "きびしい",
+      "kanji": "",
+      "romaji": "kibishii",
+      "indonesian": "disiplin, galak, keras",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "きびしい",
+      "examples": [
+        {
+          "id": "l48-v4-e1",
+          "japanese": "きびしい。",
+          "romaji": "kibishii.",
+          "indonesian": "disiplin, galak, keras"
+        }
+      ]
+    },
+    {
+      "id": "l48-v5",
+      "lessonId": 48,
+      "kana": "じゅく",
+      "kanji": "",
+      "romaji": "juku",
+      "indonesian": "les, kursus, bimbel",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "じゅく",
+      "examples": [
+        {
+          "id": "l48-v5-e1",
+          "japanese": "じゅく。",
+          "romaji": "juku.",
+          "indonesian": "les, kursus, bimbel"
+        }
+      ]
+    },
+    {
+      "id": "l48-v6",
+      "lessonId": 48,
+      "kana": "スケジュール",
+      "kanji": "",
+      "romaji": "sukejuuru",
+      "indonesian": "jadwal, rencana, daftar",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "スケジュール",
+      "examples": [
+        {
+          "id": "l48-v6-e1",
+          "japanese": "スケジュール。",
+          "romaji": "sukejuuru.",
+          "indonesian": "jadwal, rencana, daftar"
+        }
+      ]
+    },
+    {
+      "id": "l48-v7",
+      "lessonId": 48,
+      "kana": "せいと",
+      "kanji": "",
+      "romaji": "seito",
+      "indonesian": "murid",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "せいと",
+      "examples": [
+        {
+          "id": "l48-v7-e1",
+          "japanese": "せいと。",
+          "romaji": "seito.",
+          "indonesian": "murid"
+        }
+      ]
+    },
+    {
+      "id": "l48-v8",
+      "lessonId": 48,
+      "kana": "もの",
+      "kanji": "",
+      "romaji": "mono",
+      "indonesian": "orang (berhubungan dengan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "もの",
+      "examples": [
+        {
+          "id": "l48-v8-e1",
+          "japanese": "もの。",
+          "romaji": "mono.",
+          "indonesian": "orang (berhubungan dengan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v9",
+      "lessonId": 48,
+      "kana": "にゅうかん",
+      "kanji": "",
+      "romaji": "nyuukan",
+      "indonesian": "kantor imigrasi",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "にゅうかん",
+      "examples": [
+        {
+          "id": "l48-v9-e1",
+          "japanese": "にゅうかん。",
+          "romaji": "nyuukan.",
+          "indonesian": "kantor imigrasi"
+        }
+      ]
+    },
+    {
+      "id": "l48-v10",
+      "lessonId": 48,
+      "kana": "さいにゅうこくビザ",
+      "kanji": "",
+      "romaji": "sainyuukokubiza",
+      "indonesian": "visa masuk kembali",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "さいにゅうこくビザ",
+      "examples": [
+        {
+          "id": "l48-v10-e1",
+          "japanese": "さいにゅうこくビザ。",
+          "romaji": "sainyuukokubiza.",
+          "indonesian": "visa masuk kembali"
+        }
+      ]
+    },
+    {
+      "id": "l48-v11",
+      "lessonId": 48,
+      "kana": "~かん",
+      "kanji": "",
+      "romaji": "kan",
+      "indonesian": "selama---",
+      "partOfSpeech": "suffix",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "かん",
+      "examples": [
+        {
+          "id": "l48-v11-e1",
+          "japanese": "かん。",
+          "romaji": "kan.",
+          "indonesian": "selama---"
+        }
+      ]
+    },
+    {
+      "id": "l48-v12",
+      "lessonId": 48,
+      "kana": "いいことですね",
+      "kanji": "",
+      "romaji": "iikotodesune",
+      "indonesian": "itu hal yang baik ya",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "いいことですね",
+      "examples": [
+        {
+          "id": "l48-v12-e1",
+          "japanese": "いいことですね。",
+          "romaji": "iikotodesune.",
+          "indonesian": "itu hal yang baik ya"
+        }
+      ]
+    },
+    {
+      "id": "l48-v13",
+      "lessonId": 48,
+      "kana": "ひさしぶり",
+      "kanji": "",
+      "romaji": "hisashiburi",
+      "indonesian": "sudah lama tidak bertemu",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "ひさしぶり",
+      "examples": [
+        {
+          "id": "l48-v13-e1",
+          "japanese": "ひさしぶり。",
+          "romaji": "hisashiburi.",
+          "indonesian": "sudah lama tidak bertemu"
+        }
+      ]
+    },
+    {
+      "id": "l48-v14",
+      "lessonId": 48,
+      "kana": "えいぎょう",
+      "kanji": "",
+      "romaji": "eigyou",
+      "indonesian": "bisnis, pemasaran",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "えいぎょう",
+      "examples": [
+        {
+          "id": "l48-v14-e1",
+          "japanese": "えいぎょう。",
+          "romaji": "eigyou.",
+          "indonesian": "bisnis, pemasaran"
+        }
+      ]
+    },
+    {
+      "id": "l48-v15",
+      "lessonId": 48,
+      "kana": "それまでに",
+      "kanji": "",
+      "romaji": "soremadeni",
+      "indonesian": "sampai pada waktu itu",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "それまでに",
+      "examples": [
+        {
+          "id": "l48-v15-e1",
+          "japanese": "それまでに。",
+          "romaji": "soremadeni.",
+          "indonesian": "sampai pada waktu itu"
+        }
+      ]
+    },
+    {
+      "id": "l48-v16",
+      "lessonId": 48,
+      "kana": "かまいません",
+      "kanji": "",
+      "romaji": "kamaimasen",
+      "indonesian": "tidk apa-apa/boleh",
+      "partOfSpeech": "question-word",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "かまいません",
+      "examples": [
+        {
+          "id": "l48-v16-e1",
+          "japanese": "かまいません。",
+          "romaji": "kamaimasen.",
+          "indonesian": "tidk apa-apa/boleh"
+        }
+      ]
+    },
+    {
+      "id": "l48-v17",
+      "lessonId": 48,
+      "kana": "たのしみます",
+      "kanji": "",
+      "romaji": "tanoshimimasu",
+      "indonesian": "menikmati, bersenang-senang",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "たのしみます",
+      "examples": [
+        {
+          "id": "l48-v17-e1",
+          "japanese": "たのしみます。",
+          "romaji": "tanoshimimasu.",
+          "indonesian": "menikmati, bersenang-senang"
+        }
+      ]
+    },
+    {
+      "id": "l48-v18",
+      "lessonId": 48,
+      "kana": "もともと",
+      "kanji": "",
+      "romaji": "motomoto",
+      "indonesian": "dasarnya",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "もともと",
+      "examples": [
+        {
+          "id": "l48-v18-e1",
+          "japanese": "もともと。",
+          "romaji": "motomoto.",
+          "indonesian": "dasarnya"
+        }
+      ]
+    },
+    {
+      "id": "l48-v19",
+      "lessonId": 48,
+      "kana": "かわりをします",
+      "kanji": "",
+      "romaji": "kawariwoshimasu",
+      "indonesian": "menggantikan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "かわりをします",
+      "examples": [
+        {
+          "id": "l48-v19-e1",
+          "japanese": "かわりをします。",
+          "romaji": "kawariwoshimasu.",
+          "indonesian": "menggantikan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v20",
+      "lessonId": 48,
+      "kana": "スピード",
+      "kanji": "",
+      "romaji": "supiido",
+      "indonesian": "kecepatan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "スピード",
+      "examples": [
+        {
+          "id": "l48-v20-e1",
+          "japanese": "スピード。",
+          "romaji": "supiido.",
+          "indonesian": "kecepatan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v21",
+      "lessonId": 48,
+      "kana": "きょうそうします",
+      "kanji": "",
+      "romaji": "kyousoushimasu",
+      "indonesian": "berlomba lari",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "きょうそうします",
+      "examples": [
+        {
+          "id": "l48-v21-e1",
+          "japanese": "きょうそうします。",
+          "romaji": "kyousoushimasu.",
+          "indonesian": "berlomba lari"
+        }
+      ]
+    },
+    {
+      "id": "l48-v22",
+      "lessonId": 48,
+      "kana": "サーカス",
+      "kanji": "",
+      "romaji": "saakasu",
+      "indonesian": "sirkus",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "サーカス",
+      "examples": [
+        {
+          "id": "l48-v22-e1",
+          "japanese": "サーカス。",
+          "romaji": "saakasu.",
+          "indonesian": "sirkus"
+        }
+      ]
+    },
+    {
+      "id": "l48-v23",
+      "lessonId": 48,
+      "kana": "げい",
+      "kanji": "",
+      "romaji": "gei",
+      "indonesian": "keahlian",
+      "partOfSpeech": "i-adjective",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "げい",
+      "examples": [
+        {
+          "id": "l48-v23-e1",
+          "japanese": "げい。",
+          "romaji": "gei.",
+          "indonesian": "keahlian"
+        }
+      ]
+    },
+    {
+      "id": "l48-v24",
+      "lessonId": 48,
+      "kana": "すがた",
+      "kanji": "",
+      "romaji": "sugata",
+      "indonesian": "penampilan",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "すがた",
+      "examples": [
+        {
+          "id": "l48-v24-e1",
+          "japanese": "すがた。",
+          "romaji": "sugata.",
+          "indonesian": "penampilan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v25",
+      "lessonId": 48,
+      "kana": "こころ",
+      "kanji": "",
+      "romaji": "kokoro",
+      "indonesian": "hati",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "こころ",
+      "examples": [
+        {
+          "id": "l48-v25-e1",
+          "japanese": "こころ。",
+          "romaji": "kokoro.",
+          "indonesian": "hati"
+        }
+      ]
+    },
+    {
+      "id": "l48-v26",
+      "lessonId": 48,
+      "kana": "とらえます",
+      "kanji": "",
+      "romaji": "toraemasu",
+      "indonesian": "berkesan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "とらえます",
+      "examples": [
+        {
+          "id": "l48-v26-e1",
+          "japanese": "とらえます。",
+          "romaji": "toraemasu.",
+          "indonesian": "berkesan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v27",
+      "lessonId": 48,
+      "kana": "~にとって",
+      "kanji": "",
+      "romaji": "nitotte",
+      "indonesian": "bagi",
+      "partOfSpeech": "suffix",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "にとって",
+      "examples": [
+        {
+          "id": "l48-v27-e1",
+          "japanese": "にとって。",
+          "romaji": "nitotte.",
+          "indonesian": "bagi"
+        }
+      ]
+    },
+    {
+      "id": "l48-v28",
+      "lessonId": 48,
+      "kana": "しつける",
+      "kanji": "",
+      "romaji": "shitsukeru",
+      "indonesian": "mendidik",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "しつける",
+      "examples": [
+        {
+          "id": "l48-v28-e1",
+          "japanese": "しつける。",
+          "romaji": "shitsukeru.",
+          "indonesian": "mendidik"
+        }
+      ]
+    },
+    {
+      "id": "l48-v29",
+      "lessonId": 48,
+      "kana": "きたえる",
+      "kanji": "",
+      "romaji": "kitaeru",
+      "indonesian": "melatih kedisiplinan",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "きたえる",
+      "examples": [
+        {
+          "id": "l48-v29-e1",
+          "japanese": "きたえる。",
+          "romaji": "kitaeru.",
+          "indonesian": "melatih kedisiplinan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v30",
+      "lessonId": 48,
+      "kana": "けいけんをする",
+      "kanji": "",
+      "romaji": "keikenwosuru",
+      "indonesian": "berpengalaman",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "けいけんをする",
+      "examples": [
+        {
+          "id": "l48-v30-e1",
+          "japanese": "けいけんをする。",
+          "romaji": "keikenwosuru.",
+          "indonesian": "berpengalaman"
+        }
+      ]
+    },
+    {
+      "id": "l48-v31",
+      "lessonId": 48,
+      "kana": "おとしより",
+      "kanji": "",
+      "romaji": "otoshiyori",
+      "indonesian": "orang tua",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "おとしより",
+      "examples": [
+        {
+          "id": "l48-v31-e1",
+          "japanese": "おとしより。",
+          "romaji": "otoshiyori.",
+          "indonesian": "orang tua"
+        }
+      ]
+    },
+    {
+      "id": "l48-v32",
+      "lessonId": 48,
+      "kana": "ボランティア",
+      "kanji": "",
+      "romaji": "borantia",
+      "indonesian": "sukarelawan",
+      "partOfSpeech": "na-adjective",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "ボランティア",
+      "examples": [
+        {
+          "id": "l48-v32-e1",
+          "japanese": "ボランティア。",
+          "romaji": "borantia.",
+          "indonesian": "sukarelawan"
+        }
+      ]
+    },
+    {
+      "id": "l48-v33",
+      "lessonId": 48,
+      "kana": "さんかする",
+      "kanji": "",
+      "romaji": "sankasuru",
+      "indonesian": "mengikuti",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "さんかする",
+      "examples": [
+        {
+          "id": "l48-v33-e1",
+          "japanese": "さんかする。",
+          "romaji": "sankasuru.",
+          "indonesian": "mengikuti"
+        }
+      ]
+    },
+    {
+      "id": "l48-v34",
+      "lessonId": 48,
+      "kana": "じしん",
+      "kanji": "",
+      "romaji": "jishin",
+      "indonesian": "percaya diri",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "じしん",
+      "examples": [
+        {
+          "id": "l48-v34-e1",
+          "japanese": "じしん。",
+          "romaji": "jishin.",
+          "indonesian": "percaya diri"
+        }
+      ]
+    },
+    {
+      "id": "l48-v35",
+      "lessonId": 48,
+      "kana": "せきにんをもつ",
+      "kanji": "",
+      "romaji": "sekininwomotsu",
+      "indonesian": "memiliki rasa tanggung jawab",
+      "partOfSpeech": "noun",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "せきにんをもつ",
+      "examples": [
+        {
+          "id": "l48-v35-e1",
+          "japanese": "せきにんをもつ。",
+          "romaji": "sekininwomotsu.",
+          "indonesian": "memiliki rasa tanggung jawab"
+        }
+      ]
+    },
+    {
+      "id": "l48-v36",
+      "lessonId": 48,
+      "kana": "がまんする",
+      "kanji": "",
+      "romaji": "gamansuru",
+      "indonesian": "bersabar",
+      "partOfSpeech": "verb",
+      "tags": [
+        "kotoba",
+        "bab-48"
+      ],
+      "audioText": "がまんする",
+      "examples": [
+        {
+          "id": "l48-v36-e1",
+          "japanese": "がまんする。",
+          "romaji": "gamansuru.",
+          "indonesian": "bersabar"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "l48-g1",
+      "lessonId": 48,
+      "title": "Kata kerja kausatif",
+      "pattern": "Kata kerja kausatif",
+      "shortExplanation": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu.",
+      "detailedExplanation": "Materi Bab 48 ini berfokus pada pola “Kata kerja kausatif”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l48-g1-s1",
+          "label": "Struktur dasar",
+          "pattern": "Kata kerja kausatif",
+          "meaning": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l48-g1-e1",
+          "japanese": "せんせいは がくせいに ほんを よませました。",
+          "romaji": "Sensei wa gakusei ni hon o yomasemashita.",
+          "indonesian": "Guru menyuruh siswa membaca buku."
+        },
+        {
+          "id": "l48-g1-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l48-m-80614",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Kata kerja kausatif",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Kata kerja kausatif.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l48-g2",
+      "lessonId": 48,
+      "title": "Kalimat kata kerja kausatif",
+      "pattern": "Kalimat kata kerja kausatif",
+      "shortExplanation": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu.",
+      "detailedExplanation": "Materi Bab 48 ini berfokus pada pola “Kalimat kata kerja kausatif”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l48-g2-s1",
+          "label": "Struktur dasar",
+          "pattern": "Kalimat kata kerja kausatif",
+          "meaning": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l48-g2-e1",
+          "japanese": "せんせいは がくせいに ほんを よませました。",
+          "romaji": "Sensei wa gakusei ni hon o yomasemashita.",
+          "indonesian": "Guru menyuruh siswa membaca buku."
+        },
+        {
+          "id": "l48-g2-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l48-m-23090",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Kalimat kata kerja kausatif",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Kalimat kata kerja kausatif.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l48-g3",
+      "lessonId": 48,
+      "title": "Cara memakai kata kerja kausatif",
+      "pattern": "Cara memakai kata kerja kausatif",
+      "shortExplanation": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu.",
+      "detailedExplanation": "Materi Bab 48 ini berfokus pada pola “Cara memakai kata kerja kausatif”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l48-g3-s1",
+          "label": "Struktur dasar",
+          "pattern": "Cara memakai kata kerja kausatif",
+          "meaning": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l48-g3-e1",
+          "japanese": "せんせいは がくせいに ほんを よませました。",
+          "romaji": "Sensei wa gakusei ni hon o yomasemashita.",
+          "indonesian": "Guru menyuruh siswa membaca buku."
+        },
+        {
+          "id": "l48-g3-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l48-m-15452",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: Cara memakai kata kerja kausatif",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola Cara memakai kata kerja kausatif.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    },
+    {
+      "id": "l48-g4",
+      "lessonId": 48,
+      "title": "V kausatifていただけませんか",
+      "pattern": "V kausatifていただけませんか",
+      "shortExplanation": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu.",
+      "detailedExplanation": "Materi Bab 48 ini berfokus pada pola “V kausatifていただけませんか”. Gunakan pola ini dengan memperhatikan bentuk kata kerja, kata sifat, kata benda, dan partikel yang muncul sebelum atau sesudah pola. Untuk pemula, latihan terbaik adalah membuat kalimat pendek dulu, lalu mengganti kosakata sesuai konteks.",
+      "structures": [
+        {
+          "id": "l48-g4-s1",
+          "label": "Struktur dasar",
+          "pattern": "V kausatifていただけませんか",
+          "meaning": "Dipakai untuk menyatakan menyuruh, membiarkan, atau membuat seseorang melakukan sesuatu."
+        }
+      ],
+      "examples": [
+        {
+          "id": "l48-g4-e1",
+          "japanese": "いっしょに えいがを みませんか。",
+          "romaji": "Issho ni eiga o mimasen ka.",
+          "indonesian": "Mau menonton film bersama?"
+        },
+        {
+          "id": "l48-g4-e2",
+          "japanese": "じぶんの ことばで ぶんを つくってください。",
+          "romaji": "Jibun no kotoba de bun o tsukutte kudasai.",
+          "indonesian": "Buatlah kalimat dengan kata-katamu sendiri."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "l48-m-71192",
+          "wrong": "Mengikuti urutan kata bahasa Indonesia atau menghilangkan partikel.",
+          "correct": "Gunakan struktur pola: V kausatifていただけませんか",
+          "explanation": "Bahasa Jepang sangat bergantung pada bentuk kata dan partikel. Jangan hanya menerjemahkan kata demi kata dari bahasa Indonesia."
+        }
+      ],
+      "practicePrompts": [
+        "Buat 3 kalimat memakai pola V kausatifていただけませんか.",
+        "Ubah satu kalimat Indonesia menjadi bahasa Jepang.",
+        "Minta Harmoko Sensei mengoreksi kalimatmu."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "l48-c1",
+      "lessonId": 48,
+      "title": "Boleh saya mengambil cuti?",
+      "context": "Percakapan pendek untuk melatih materi Bab 48.",
+      "lines": [
+        {
+          "id": "l48-c1-l1",
+          "speaker": "Rido",
+          "japanese": "すみません。ちょっと いいですか。",
+          "romaji": "Sumimasen. Chotto ii desu ka.",
+          "indonesian": "Permisi. Boleh sebentar?"
+        },
+        {
+          "id": "l48-c1-l2",
+          "speaker": "Sato",
+          "japanese": "はい、いいですよ。",
+          "romaji": "Hai, ii desu yo.",
+          "indonesian": "Ya, boleh."
+        },
+        {
+          "id": "l48-c1-l3",
+          "speaker": "Rido",
+          "japanese": "せんせいは がくせいに ほんを よませました。",
+          "romaji": "Sensei wa gakusei ni hon o yomasemashita.",
+          "indonesian": "Guru menyuruh siswa membaca buku."
+        },
+        {
+          "id": "l48-c1-l4",
+          "speaker": "Sato",
+          "japanese": "いいですね。もういちど れんしゅうしましょう。",
+          "romaji": "Ii desu ne. Mou ichido renshuu shimashou.",
+          "indonesian": "Bagus. Mari latihan sekali lagi."
+        }
+      ],
+      "roleplayPrompts": [
+        "Latihan percakapan dengan tema: Boleh saya mengambil cuti?.",
+        "User menjawab dalam bahasa Jepang sederhana.",
+        "Harmoko Sensei memberi koreksi singkat."
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "id": "l48-cn1",
+      "lessonId": 48,
+      "title": "Mendidik dan disiplin",
+      "body": "Topik referensi Bab 48: Mendidik dan disiplin. Bagian ini membantu memahami konteks pemakaian bahasa Jepang dalam kehidupan sehari-hari, budaya, tempat, kebiasaan, atau ungkapan yang sering muncul.",
+      "tips": [
+        "Baca kosakata yang berhubungan dengan topik ini.",
+        "Coba buat 3 kalimat pendek memakai kosakata bab ini.",
+        "Gunakan flashcard untuk mengulang kata yang sulit.",
+        "Minta Harmoko Sensei membuat roleplay sesuai topik ini."
+      ]
+    },
+    {
+      "id": "l48-cn2",
+      "lessonId": 48,
+      "title": "Cara belajar efektif",
+      "body": "Pelajari pola kalimat, lihat contoh, lalu langsung praktik percakapan. Jangan hanya menghafal arti; gunakan kosakata dalam kalimat pendek.",
+      "tips": [
+        "Pahami pola sebelum menghafal banyak contoh.",
+        "Latihan suara dengan tombol speaker.",
+        "Tandai pelajaran selesai setelah membaca semua tab."
+      ]
+    }
+  ],
+  "aiSuggestedPrompts": [
+    "Jelaskan tata bahasa Bab 48 dengan sederhana.",
+    "Buat 10 soal dari grammar Bab 48.",
+    "Buat roleplay tentang Boleh saya mengambil cuti?.",
+    "Buat contoh kalimat dari kosakata Bab 48.",
+    "Koreksi kalimat Jepang saya."
+  ]
+}

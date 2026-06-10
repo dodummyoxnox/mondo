@@ -5,7 +5,6 @@ import Link from "next/link"
 import {
   ArrowLeft,
   CheckCircle2,
-  Copy,
   Home,
   RotateCcw,
   Share2,
@@ -159,13 +158,30 @@ export function JapaneseQuizRunner({ quiz }: JapaneseQuizRunnerProps) {
     const percentage = Math.round((score / total) * 100)
     const text = `Aku baru selesai ${quiz.title} di Mondo! Skor: ${score}/${total} (${percentage}%). Yuk, konsisten bareng belajar bahasa Jepang!`
 
-    if ("share" in navigator) {
-  await navigator.share({ title: "Hasil Kuis Mondo", text })
-  return
-}
+    const nav = window.navigator as Navigator & {
+      share?: (data: ShareData) => Promise<void>
+      clipboard?: Clipboard
+    }
 
-    await navigator.clipboard.writeText(text)
-    setShareCopied(true)
+    try {
+      if (typeof nav.share === "function") {
+        await nav.share({
+          title: "Hasil Kuis Mondo",
+          text
+        })
+        return
+      }
+
+      if (nav.clipboard?.writeText) {
+        await nav.clipboard.writeText(text)
+        setShareCopied(true)
+      }
+    } catch {
+      if (nav.clipboard?.writeText) {
+        await nav.clipboard.writeText(text)
+        setShareCopied(true)
+      }
+    }
   }
 
   if (!currentQuestion || questions.length === 0) {
@@ -256,11 +272,7 @@ export function JapaneseQuizRunner({ quiz }: JapaneseQuizRunnerProps) {
               </Button>
 
               <Button variant="secondary" className="gap-2 rounded-xl" onClick={shareResult}>
-                {"share" in navigator ? (
-                  <Share2 className="h-4 w-4" />
-                ) : (
-                  <Copy className="h-4 w-4" />
-                )}
+                <Share2 className="h-4 w-4" />
                 Bagikan Hasil
               </Button>
             </div>
